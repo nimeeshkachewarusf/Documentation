@@ -1,0 +1,1001 @@
+restaurant_id,RestaurantName,pet_friendly,Latitude,Longitude,City,rating,Cuisine
+1,The Coconut Barfi Boutique Kitchen,TRUE,8.561099,76.985845,Trivandrum,3.2,Japanese
+2,The Saffron Plate Grill,FALSE,9.924866,76.288397,Kochi,4.4,Indian
+3,Bombay Bites Bistro,TRUE,13.07937,80.272899,Chennai,2.5,Indian
+4,The Badam Burfi Bistro Kitchen,FALSE,22.580901,88.350813,Kolkata,4.6,Indian
+5,Bombay Bites House,FALSE,17.362014,78.457698,Hyderabad,4.4,Japanese
+6,Bombay Bites Kitchen,FALSE,13.300281,74.743443,Udupi,3.4,Chinese
+7,The Paratha Place Bistro,FALSE,25.302896,83.009919,Varanasi,2.7,Indian
+8,Spice Route Bistro Kitchen,FALSE,25.31366,82.932251,Varanasi,4.9,Japanese
+9,Desi Tadka Cafe,FALSE,12.277214,76.648729,Mysore,4.6,Japanese
+10,Biryani Bliss Cafe,FALSE,12.314587,76.615126,Mysore,2.9,Indian
+11,The Lotus Leaf Lounge House,FALSE,13.348648,74.741473,Udupi,4.3,Chinese
+12,The Mysore Pak Mansion Grill,FALSE,13.123103,80.309127,Chennai,4.7,Japanese
+13,The Saffron Spot Bistro,FALSE,19.040033,72.907191,Mumbai,3.9,Japanese
+14,The Cinnamon Circle Grill,FALSE,13.369006,74.715945,Udupi,4.9,Chinese
+15,The Peda Palace Grill,TRUE,13.371417,74.732208,Udupi,3.5,Chinese
+16,The Raita Retreat Kitchen,TRUE,13.039401,80.281891,Chennai,3.8,Indian
+17,Biryani Bliss House,FALSE,11.243989,75.769617,Kozhikode,4.2,Indian
+18,Tadka Town Grill,FALSE,17.358303,78.500148,Hyderabad,3.6,Chinese
+19,The Lassi Lounge Bistro,TRUE,12.974654,77.61046,Bangalore,3.7,Indian
+20,The Peda Palace Cafe,FALSE,13.012566,77.622533,Bangalore,4.6,Chinese
+21,Taste of Home Grill,FALSE,11.245564,75.808814,Kozhikode,2.6,Japanese
+22,Kolkata Kitchen Grill,FALSE,12.329796,76.595107,Mysore,4.9,Japanese
+23,The Grand Trunk Road Kitchen Cafe,FALSE,12.88629,74.872766,Mangalore,3.6,Japanese
+24,The Ginger Garden Grill,FALSE,22.575752,88.368669,Kolkata,4.6,Japanese
+25,The Saffron Plate Kitchen,FALSE,12.878436,74.809872,Mangalore,2.7,Japanese
+26,The Lotus Leaf Lounge Bistro,TRUE,19.029568,72.867582,Mumbai,4.4,Indian
+27,Aroma of Biryani Grill,FALSE,8.534811,76.936228,Trivandrum,2.9,Japanese
+28,The Malabar Coast Cafe Bistro,FALSE,8.517301,76.891607,Trivandrum,3,Japanese
+29,The Halwa House Grill,FALSE,11.224717,75.795854,Kozhikode,4.2,Japanese
+30,Chutney & Chai Cafe,FALSE,31.607267,74.915598,Amritsar,3.4,Japanese
+31,The Kheer Kitchen Grill,FALSE,21.210657,72.784714,Surat,3.9,Indian
+32,Desi Bites Grill,TRUE,22.559046,88.393196,Kolkata,4.8,Japanese
+33,The Malabar Coast Cafe Kitchen,TRUE,22.568168,88.314225,Kolkata,4.3,Indian
+34,Flavors of Delhi Grill,TRUE,18.479296,73.820173,Pune,4.9,Chinese
+35,Ginger & Garlic Bistro,TRUE,25.365627,83.005692,Varanasi,3.9,Chinese
+36,Masala Bay House,FALSE,12.927181,77.558489,Bangalore,3.2,Indian
+37,The Deccan Plateau Grill Kitchen,FALSE,11.236193,75.736803,Kozhikode,2.8,Chinese
+38,The Ashoka Restaurant House,FALSE,12.957683,74.875263,Mangalore,4.5,Japanese
+39,Naan Stop House,TRUE,19.092695,72.922605,Mumbai,4.6,Chinese
+40,Aroma of Biryani Grill,FALSE,19.092748,72.862294,Mumbai,4.1,Chinese
+41,Tandoor Express Bistro,TRUE,17.3494,78.523255,Hyderabad,4.2,Indian
+42,Rajasthan Royals House,FALSE,13.033023,80.246337,Chennai,3.7,Indian
+43,Ginger & Garlic House,FALSE,22.540595,88.322602,Kolkata,4.3,Indian
+44,Royal India House,FALSE,25.350908,82.944788,Varanasi,3.5,Japanese
+45,The Lassi Lounge Cafe,FALSE,12.880241,74.851679,Mangalore,2.6,Japanese
+46,The Nutmeg Nook Bistro,FALSE,8.519506,76.926803,Trivandrum,3,Japanese
+47,The Biryani Bowl Cafe,FALSE,17.383487,78.460016,Hyderabad,4.1,Japanese
+48,Taste of Home House,FALSE,18.506348,73.841561,Pune,3.5,Indian
+49,The Peda Palace Bistro,FALSE,12.992493,77.612312,Bangalore,3.3,Japanese
+50,The Pickle Palace Bistro,FALSE,8.492575,76.981411,Trivandrum,2.7,Indian
+51,The Garlic Grill House,FALSE,9.964075,76.300432,Kochi,4.7,Chinese
+52,The Cinnamon Circle House,TRUE,21.192417,72.808963,Surat,3.5,Chinese
+53,The Mango Tree Grill,FALSE,11.279312,75.762191,Kozhikode,3.4,Chinese
+54,The Royal Thali House,TRUE,21.132796,72.789036,Surat,3.9,Chinese
+55,Desi Bites Cafe,FALSE,22.61308,88.348576,Kolkata,3.2,Japanese
+56,The Jalebi Junction House,TRUE,13.071037,80.228682,Chennai,3.4,Indian
+57,Chennai Chef Kitchen,FALSE,17.391003,78.530365,Hyderabad,3.1,Indian
+58,Spice Garden Cafe,FALSE,9.889216,76.298028,Kochi,4.2,Chinese
+59,Vindaloo Village Kitchen,TRUE,12.326441,76.660162,Mysore,4.9,Indian
+60,The Bengal Tiger Bistro House,FALSE,18.556901,73.895696,Pune,4,Indian
+61,The Curry Leaf Bistro,FALSE,22.536903,88.319752,Kolkata,3.6,Chinese
+62,The Mint Mansion Kitchen,TRUE,12.980671,77.604901,Bangalore,2.8,Chinese
+63,The Mango Tree Cafe,FALSE,25.272441,83.00265,Varanasi,4.6,Indian
+64,The Pulao Pot House,FALSE,19.027739,72.918766,Mumbai,3.9,Indian
+65,The Kulfi Corner Cafe,FALSE,25.273399,82.966127,Varanasi,4.7,Japanese
+66,Punjab Grill Bistro,TRUE,17.416067,78.43906,Hyderabad,4.6,Chinese
+67,Spice Merchant House,FALSE,31.619899,74.874589,Amritsar,3.7,Indian
+68,The Marigold Mahal Bistro,FALSE,13.322566,74.741471,Udupi,2.7,Japanese
+69,Flavors of Delhi Kitchen,FALSE,13.106968,80.227653,Chennai,4.4,Indian
+70,The Chili Chat Cafe,FALSE,18.482702,73.835872,Pune,3,Japanese
+71,The Jalebi Junction Grill,TRUE,25.32727,83.021728,Varanasi,4.5,Japanese
+72,The Papadum Paradise House,TRUE,11.300987,75.747445,Kozhikode,3.2,Chinese
+73,The Coconut Barfi Boutique Grill,FALSE,8.520147,76.895571,Trivandrum,4.1,Chinese
+74,The Clove Corner Kitchen,FALSE,12.303455,76.637664,Mysore,3.8,Indian
+75,The Chili Chat Grill,FALSE,8.5546,76.96515,Trivandrum,3.4,Chinese
+76,The Mango Tree Kitchen,FALSE,12.333417,76.648079,Mysore,3,Chinese
+77,The Malabar Coast Cafe Kitchen,TRUE,12.329318,76.65296,Mysore,4.4,Indian
+78,Chennai Chef Grill,FALSE,19.028388,72.923659,Mumbai,3.2,Chinese
+79,Uttapam Union Grill,TRUE,21.180054,72.832761,Surat,4.7,Chinese
+80,Currylicious Kitchen,FALSE,12.932307,74.868894,Mangalore,4.5,Indian
+81,Flavors of Delhi Grill,TRUE,9.928841,76.257181,Kochi,3.7,Chinese
+82,The Pickle Palace Bistro,FALSE,21.21477,72.824253,Surat,3.4,Indian
+83,The Sesame Street Kitchen Cafe,FALSE,9.973672,76.279768,Kochi,4.9,Indian
+84,The Naan Nest Kitchen,FALSE,9.898725,76.237952,Kochi,2.7,Indian
+85,The Chili Chat House,FALSE,9.903693,76.263227,Kochi,4.9,Chinese
+86,Spiced Roots Kitchen Bistro,FALSE,13.309415,74.726682,Udupi,3.7,Chinese
+87,Indian Zaika Bistro,TRUE,18.563831,73.8952,Pune,4.3,Indian
+88,Punjab Grill Kitchen,TRUE,11.262597,75.768473,Kozhikode,3.8,Indian
+89,The Cardamom Pod House,FALSE,18.547959,73.826014,Pune,3.6,Chinese
+90,The Cardamom Pod Kitchen,FALSE,12.956061,77.643122,Bangalore,3,Indian
+91,The Spice Box Cafe,FALSE,18.560629,73.855891,Pune,2.7,Indian
+92,The Bay Leaf Bistro Grill,FALSE,8.527149,76.941585,Trivandrum,3.1,Japanese
+93,The Pulao Pot House,FALSE,21.151541,72.828924,Surat,2.7,Chinese
+94,The Saffron Plate House,FALSE,9.967367,76.250407,Kochi,4,Chinese
+95,Masala Bay Grill,FALSE,11.213574,75.765231,Kozhikode,3.4,Japanese
+96,The Tamarind Tree Kitchen,TRUE,13.294814,74.758413,Udupi,2.7,Japanese
+97,The Star Anise Supper Club Kitchen,FALSE,11.27923,75.827265,Kozhikode,4.1,Chinese
+98,The Kaju Katli Cafe Kitchen,FALSE,12.287168,76.621607,Mysore,2.8,Chinese
+99,Tadka Town House,FALSE,12.256495,76.671564,Mysore,4.1,Indian
+100,The Paratha Place Kitchen,FALSE,12.286068,76.641344,Mysore,4.4,Japanese
+101,The Pickle Palace Bistro,TRUE,25.317557,83.000464,Varanasi,2.9,Japanese
+102,The Curry Leaf Cafe,TRUE,12.275886,76.648635,Mysore,4,Japanese
+103,The Lassi Lounge House,FALSE,17.427937,78.474437,Hyderabad,3.8,Japanese
+104,The Raita Retreat Bistro,FALSE,12.948083,77.547314,Bangalore,4.7,Chinese
+105,Himalayan Harvest House,FALSE,17.433797,78.444491,Hyderabad,4,Chinese
+106,The Ashoka Restaurant Bistro,TRUE,31.66859,74.915245,Amritsar,4,Japanese
+107,Chutney Central Bistro,TRUE,12.317258,76.597527,Mysore,4.8,Indian
+108,Spice Garden Bistro,TRUE,21.18133,72.810187,Surat,4.9,Indian
+109,The Curry Leaf Kitchen,FALSE,22.532301,88.387411,Kolkata,4.1,Indian
+110,The Papadum Paradise Kitchen,FALSE,9.901029,76.239246,Kochi,2.5,Japanese
+111,The Jalebi Junction Kitchen,FALSE,22.554057,88.324333,Kolkata,4.9,Japanese
+112,The Star Anise Supper Club Cafe,FALSE,19.080076,72.874339,Mumbai,3.3,Chinese
+113,Currylicious Cafe,FALSE,17.360984,78.519948,Hyderabad,4.6,Chinese
+114,Naan Stop Bistro,FALSE,13.132513,80.310107,Chennai,3.4,Chinese
+115,Rajasthan Royals Grill,FALSE,22.548068,88.388242,Kolkata,3.1,Indian
+116,Ganges Grill Bistro,FALSE,12.960475,77.564357,Bangalore,3,Chinese
+117,The Mysore Pak Mansion Cafe,FALSE,13.052138,80.245509,Chennai,4.6,Indian
+118,Punjab Grill House,FALSE,21.208387,72.876903,Surat,4.9,Chinese
+119,The Poppy Seed Plate Kitchen,FALSE,25.316474,82.999275,Varanasi,3.9,Japanese
+120,Spice Garden Kitchen,FALSE,18.48661,73.82911,Pune,4.1,Indian
+121,The Mango Tree House,FALSE,22.537144,88.35332,Kolkata,4.4,Chinese
+122,The Biryani Bowl Kitchen,TRUE,17.349804,78.463366,Hyderabad,3.5,Japanese
+123,The Paratha Place Grill,TRUE,12.247739,76.656566,Mysore,2.9,Chinese
+124,The Raita Retreat House,FALSE,19.07909,72.91672,Mumbai,2.8,Indian
+125,The Spice Box Grill,FALSE,11.271199,75.804812,Kozhikode,4.8,Japanese
+126,Ganges Grill Kitchen,TRUE,13.076857,80.226437,Chennai,2.9,Chinese
+127,The Spice Box Grill,TRUE,21.120823,72.842491,Surat,3.4,Chinese
+128,The Saffron Spot Bistro,FALSE,31.623147,74.827351,Amritsar,3.9,Japanese
+129,The Peda Palace Kitchen,TRUE,11.303743,75.815439,Kozhikode,4.7,Japanese
+130,The Kaju Katli Cafe Grill,FALSE,19.11566,72.895171,Mumbai,3.2,Chinese
+131,Spice Paradise Bistro,FALSE,9.89088,76.280846,Kochi,3.2,Chinese
+132,The Curry Leaf Grill,TRUE,22.60292,88.346194,Kolkata,4.7,Chinese
+133,The Star Anise Supper Club House,FALSE,31.62329,74.87158,Amritsar,3.6,Indian
+134,The Mustard Seed Cafe,FALSE,12.994656,77.546822,Bangalore,2.6,Chinese
+135,The Cinnamon Circle House,TRUE,25.331584,82.966613,Varanasi,3,Japanese
+136,Mysore Masala Bistro,FALSE,31.673434,74.906622,Amritsar,3.9,Japanese
+137,The Naan Nest Cafe,FALSE,17.344974,78.440605,Hyderabad,2.7,Indian
+138,Desi Tadka Cafe,FALSE,25.345663,82.991868,Varanasi,3.6,Japanese
+139,The Chutney Jar House,TRUE,18.5082,73.82232,Pune,2.5,Japanese
+140,Uttapam Union Kitchen,FALSE,13.302035,74.710784,Udupi,3,Japanese
+141,Flavor of India House,FALSE,21.175898,72.84742,Surat,3.8,Chinese
+142,Spice Garden Kitchen,FALSE,12.345528,76.609196,Mysore,4.1,Japanese
+143,The Chili Chat Grill,FALSE,12.984259,77.584329,Bangalore,4.2,Chinese
+144,Mysore Masala Bistro,TRUE,8.523383,76.898517,Trivandrum,3.5,Indian
+145,The Cinnamon Circle Bistro,TRUE,19.026202,72.852928,Mumbai,3.1,Indian
+146,The Sandalwood Terrace Cafe,FALSE,18.472622,73.877601,Pune,4.2,Chinese
+147,Vindaloo Village Kitchen,TRUE,12.26345,76.645611,Mysore,3.6,Indian
+148,Biryani Bliss Kitchen,FALSE,8.510107,76.934744,Trivandrum,4.5,Indian
+149,Aroma of Biryani House,FALSE,21.204012,72.790218,Surat,3.4,Japanese
+150,The Papadum Paradise Grill,FALSE,8.569478,76.924673,Trivandrum,3.8,Chinese
+151,The Clove Corner Cafe,FALSE,13.013453,77.559968,Bangalore,3.8,Chinese
+152,The Grand Trunk Road Kitchen Bistro,FALSE,22.610915,88.337213,Kolkata,3.1,Chinese
+153,The Kulfi Corner Kitchen,FALSE,12.289788,76.656821,Mysore,4,Chinese
+154,The Kulfi Corner Grill,TRUE,13.333527,74.785383,Udupi,4.4,Chinese
+155,Vindaloo Village House,TRUE,13.112426,80.233358,Chennai,3.9,Chinese
+156,The Rasgulla Restaurant Kitchen,FALSE,9.968047,76.232444,Kochi,3.4,Chinese
+157,The Himalayan Foothills Diner Grill,FALSE,18.489485,73.835204,Pune,3.2,Chinese
+158,Spice Paradise Bistro,FALSE,13.018129,77.627077,Bangalore,3.8,Japanese
+159,Curry & Naan Grill,FALSE,19.06813,72.878752,Mumbai,3.9,Indian
+160,Spice Paradise Cafe,FALSE,12.95973,77.602848,Bangalore,4.9,Chinese
+161,The Saffron Plate House,FALSE,22.540475,88.385596,Kolkata,3.1,Chinese
+162,Desi Tadka Cafe,FALSE,13.322491,74.784948,Udupi,4.8,Chinese
+163,The Banyan Tree Cafe Grill,TRUE,8.529305,76.968116,Trivandrum,3.5,Indian
+164,The Peda Palace House,FALSE,11.246532,75.827358,Kozhikode,2.6,Indian
+165,Naan Stop Grill,FALSE,9.889278,76.304842,Kochi,2.7,Indian
+166,Kolkata Kitchen Bistro,FALSE,19.111298,72.888222,Mumbai,2.6,Indian
+167,Kolkata Kitchen Grill,TRUE,25.304864,82.932589,Varanasi,4.9,Indian
+168,Goa Spice Grill,TRUE,31.639918,74.90334,Amritsar,3,Japanese
+169,The Mustard Seed House,FALSE,12.876653,74.900311,Mangalore,4.6,Chinese
+170,Samosa King Kitchen,TRUE,13.056234,80.236582,Chennai,3.5,Chinese
+171,The Naan Nest House,FALSE,31.659547,74.917387,Amritsar,3,Indian
+172,The Tandoor Oven Bistro,TRUE,21.180314,72.796978,Surat,2.8,Japanese
+173,Tandoori Nights Kitchen,FALSE,22.575095,88.361349,Kolkata,2.8,Japanese
+174,The Chili Chat Cafe,TRUE,11.246013,75.780936,Kozhikode,4.8,Chinese
+175,The Masala Mill Kitchen,FALSE,12.934759,74.868471,Mangalore,4.1,Indian
+176,The Mango Lassi Bar Kitchen,TRUE,18.474574,73.820735,Pune,3.4,Japanese
+177,Uttapam Union Grill,TRUE,31.614342,74.910411,Amritsar,4.8,Chinese
+178,Darjeeling Diner Bistro,TRUE,9.921589,76.302069,Kochi,4.1,Indian
+179,Tandoor Terrace Kitchen,TRUE,22.556814,88.365025,Kolkata,3.8,Chinese
+180,The Cinnamon Circle Kitchen,TRUE,25.269234,82.941951,Varanasi,2.5,Japanese
+181,The Fenugreek Feast Bistro,FALSE,22.58532,88.360862,Kolkata,2.9,Japanese
+182,The Bay Leaf Bistro Cafe,FALSE,25.271475,82.955777,Varanasi,2.7,Indian
+183,The Raita Retreat House,TRUE,9.961292,76.227434,Kochi,3.1,Chinese
+184,The Tandoor Oven Bistro,FALSE,13.343963,74.708215,Udupi,3.1,Indian
+185,The Cardamom Pod Bistro,FALSE,21.171699,72.815182,Surat,2.8,Indian
+186,The Deccan Plateau Grill Grill,FALSE,13.324488,74.698224,Udupi,3.2,Chinese
+187,Vada Villa Bistro,TRUE,12.92027,74.881586,Mangalore,4.1,Indian
+188,Biryani Bliss Bistro,TRUE,9.947695,76.287847,Kochi,5,Japanese
+189,Biryani House Grill,FALSE,18.519917,73.90614,Pune,4.2,Japanese
+190,The Lassi Lounge Kitchen,TRUE,13.33969,74.757435,Udupi,4.7,Indian
+191,The Saffron Spot House,FALSE,25.320067,83.022921,Varanasi,3.9,Japanese
+192,The Malabar Coast Cafe Bistro,TRUE,13.387724,74.785473,Udupi,4.7,Chinese
+193,Naan Stop Cafe,FALSE,19.063474,72.862329,Mumbai,2.9,Chinese
+194,Indus Flavors House,TRUE,12.960793,74.853327,Mangalore,3.9,Indian
+195,Darjeeling Diner Grill,FALSE,12.924196,74.841945,Mangalore,3.2,Japanese
+196,The Masala Mill Bistro,FALSE,12.948786,74.839275,Mangalore,3.1,Japanese
+197,The Mustard Seed Grill,TRUE,12.945819,74.822696,Mangalore,4.4,Chinese
+198,The Grand Trunk Road Kitchen House,TRUE,13.107456,80.220773,Chennai,3,Indian
+199,Spice Garden Cafe,FALSE,13.079968,80.261194,Chennai,3.1,Japanese
+200,Ginger & Garlic Kitchen,FALSE,22.546059,88.398715,Kolkata,4.8,Chinese
+201,Spice Garden Kitchen,FALSE,19.0714,72.837894,Mumbai,4.1,Japanese
+202,The Royal Thali House,FALSE,11.285774,75.791942,Kozhikode,4.9,Chinese
+203,The Paratha Place Bistro,FALSE,18.470955,73.826858,Pune,4.1,Japanese
+204,The Biryani Bowl Grill,TRUE,11.258485,75.76407,Kozhikode,3.9,Japanese
+205,The Ashoka Restaurant Bistro,FALSE,9.896335,76.222668,Kochi,4.3,Indian
+206,Ganges Grill House,FALSE,8.495923,76.963271,Trivandrum,4.2,Japanese
+207,The Grand Trunk Road Kitchen Grill,TRUE,12.302288,76.627165,Mysore,3.2,Chinese
+208,The Masala Mill Cafe,FALSE,25.286409,82.929419,Varanasi,3.2,Indian
+209,Curry Kingdom Kitchen,FALSE,21.191888,72.875364,Surat,4,Indian
+210,Chutney & Chai House,FALSE,17.355231,78.533015,Hyderabad,5,Chinese
+211,The Royal Thali Cafe,FALSE,13.078102,80.266816,Chennai,2.7,Chinese
+212,The Saffron Plate Bistro,FALSE,17.338578,78.480431,Hyderabad,4,Japanese
+213,Indian Zaika Grill,TRUE,22.604963,88.344162,Kolkata,3,Japanese
+214,Tadka Town Grill,TRUE,8.522694,76.923546,Trivandrum,3.8,Japanese
+215,Vindaloo Village Kitchen,TRUE,22.525495,88.32277,Kolkata,2.9,Indian
+216,Chennai Chef House,FALSE,12.890903,74.841675,Mangalore,3,Japanese
+217,Desi Bites House,TRUE,12.337043,76.590521,Mysore,3,Chinese
+218,The Saffron Spot Grill,FALSE,11.292256,75.806947,Kozhikode,3.7,Japanese
+219,The Himalayan Foothills Diner Bistro,FALSE,22.551041,88.331257,Kolkata,3.9,Chinese
+220,The Royal Thali Grill,FALSE,12.939487,74.845027,Mangalore,2.7,Indian
+221,The Roti Room Kitchen,FALSE,12.328341,76.619096,Mysore,3,Indian
+222,The Kaju Katli Cafe Kitchen,TRUE,8.516,76.951904,Trivandrum,2.5,Indian
+223,Aroma of Biryani Bistro,TRUE,22.554967,88.326257,Kolkata,4.3,Japanese
+224,Masala Mantra Cafe,FALSE,12.300475,76.601317,Mysore,3.1,Indian
+225,The Clove Corner Kitchen,TRUE,19.087831,72.887344,Mumbai,4.5,Indian
+226,The Lotus Leaf Lounge House,TRUE,19.03607,72.871553,Mumbai,3.4,Chinese
+227,Kolkata Kitchen Grill,FALSE,17.421655,78.449883,Hyderabad,3.6,Chinese
+228,Spice Garden Grill,FALSE,8.56563,76.96796,Trivandrum,4.5,Japanese
+229,Chutney & Chai Grill,FALSE,12.937293,77.627666,Bangalore,2.6,Indian
+230,Spice Garden House,FALSE,12.927503,74.889877,Mangalore,3.2,Indian
+231,The Coconut Barfi Boutique Kitchen,FALSE,12.897243,74.853106,Mangalore,3.3,Japanese
+232,Tikka Trails Grill,TRUE,17.434325,78.491771,Hyderabad,4.4,Indian
+233,The Mysore Pak Mansion Kitchen,FALSE,13.131341,80.287679,Chennai,3.4,Japanese
+234,Samosa King House,FALSE,17.429151,78.486409,Hyderabad,4.8,Indian
+235,The Saffron Plate Bistro,FALSE,8.493896,76.945893,Trivandrum,3.4,Japanese
+236,Flavor of India Grill,TRUE,31.660133,74.902391,Amritsar,4.3,Indian
+237,The Chili Chat Grill,FALSE,25.27126,82.974842,Varanasi,2.5,Japanese
+238,The Royal Thali House,FALSE,13.364067,74.694692,Udupi,4.7,Indian
+239,The Tandoor Oven Kitchen,FALSE,12.956319,77.591253,Bangalore,3.4,Japanese
+240,Vindaloo Village Bistro,FALSE,22.561491,88.32156,Kolkata,3.7,Chinese
+241,The Star Anise Supper Club Cafe,FALSE,21.164314,72.808459,Surat,2.6,Chinese
+242,The Cardamom Pod Grill,FALSE,19.053868,72.845325,Mumbai,2.6,Chinese
+243,The Raita Retreat Bistro,FALSE,22.545354,88.378114,Kolkata,3.6,Japanese
+244,Tandoor Terrace House,FALSE,18.503159,73.853513,Pune,4.9,Indian
+245,The Chili Chat Kitchen,FALSE,11.216954,75.748897,Kozhikode,3.1,Chinese
+246,Chutney & Chai Grill,FALSE,18.488669,73.865596,Pune,3.3,Indian
+247,The Badam Burfi Bistro House,FALSE,12.984403,77.55591,Bangalore,3.5,Chinese
+248,Taste of Home Bistro,TRUE,12.306198,76.652704,Mysore,4.7,Chinese
+249,Vindaloo Village Bistro,FALSE,19.051936,72.904171,Mumbai,2.5,Japanese
+250,The Halwa House Kitchen,TRUE,8.520852,76.945621,Trivandrum,3.1,Indian
+251,Spice Paradise House,FALSE,8.561638,76.970711,Trivandrum,4.9,Japanese
+252,Spice Route Bistro Grill,FALSE,9.884717,76.235298,Kochi,2.7,Indian
+253,Flavors of Delhi Bistro,TRUE,19.038176,72.899797,Mumbai,2.7,Japanese
+254,The Cardamom Pod Bistro,FALSE,17.39782,78.472659,Hyderabad,4.5,Japanese
+255,Kerala Kitchen Cafe,FALSE,31.619948,74.834764,Amritsar,3.9,Indian
+256,Aromas of India Kitchen,FALSE,21.123051,72.844241,Surat,4.8,Indian
+257,Uttapam Union Cafe,FALSE,11.249423,75.818941,Kozhikode,3.6,Japanese
+258,Spice Paradise House,FALSE,12.96829,77.562043,Bangalore,4.1,Chinese
+259,The Mysore Pak Mansion Grill,FALSE,11.221182,75.791615,Kozhikode,4,Japanese
+260,The Mint Mansion Bistro,TRUE,18.547508,73.877295,Pune,4.3,Indian
+261,Chutney Central Kitchen,FALSE,18.548124,73.869505,Pune,2.6,Chinese
+262,Tandoor Express Grill,FALSE,12.929495,77.630276,Bangalore,3.8,Chinese
+263,The Sesame Street Kitchen Bistro,TRUE,13.116831,80.309509,Chennai,4.5,Chinese
+264,The Pickle Palace Grill,FALSE,22.57992,88.370324,Kolkata,4,Indian
+265,The Kheer Kitchen Cafe,TRUE,22.583603,88.379624,Kolkata,4.9,Indian
+266,The Poppy Seed Plate Grill,FALSE,22.601741,88.373161,Kolkata,3.6,Japanese
+267,The Mysore Pak Mansion Cafe,FALSE,19.121625,72.849868,Mumbai,4.2,Chinese
+268,The Clove Corner Kitchen,FALSE,11.218657,75.829906,Kozhikode,3.9,Indian
+269,Chutney & Chai Cafe,TRUE,12.942883,74.852226,Mangalore,4.6,Japanese
+270,Chai & Chaat Grill,TRUE,31.639569,74.908384,Amritsar,4.9,Chinese
+271,The Curry Pot House,FALSE,17.401478,78.505286,Hyderabad,4.3,Indian
+272,The Coriander Cafe Grill,FALSE,21.186253,72.832843,Surat,4.8,Indian
+273,Indian Zaika House,FALSE,31.640079,74.85825,Amritsar,2.9,Japanese
+274,Vindaloo Village Grill,TRUE,17.42585,78.494809,Hyderabad,2.7,Japanese
+275,Biryani House Bistro,FALSE,8.535596,76.906797,Trivandrum,3.9,Japanese
+276,The Raita Retreat House,FALSE,18.498105,73.867007,Pune,4.6,Chinese
+277,The Badam Burfi Bistro Grill,FALSE,8.519834,76.904719,Trivandrum,4.3,Japanese
+278,The Pulao Pot Grill,FALSE,12.97172,77.62673,Bangalore,4.8,Indian
+279,Tandoor Express Kitchen,TRUE,31.648715,74.855136,Amritsar,3,Chinese
+280,The Chutney Jar Bistro,FALSE,8.53096,76.965426,Trivandrum,3.9,Japanese
+281,The Turmeric Trail Bistro,FALSE,12.280169,76.607996,Mysore,4.1,Japanese
+282,The Nutmeg Nook Cafe,TRUE,8.47681,76.894443,Trivandrum,2.6,Chinese
+283,Hyderabad House House,TRUE,25.344338,83.007317,Varanasi,4.9,Indian
+284,The Rasgulla Restaurant Kitchen,FALSE,12.923229,77.554619,Bangalore,4.2,Indian
+285,The Cardamom Pod Cafe,FALSE,17.337543,78.508955,Hyderabad,3.6,Japanese
+286,Uttapam Union Cafe,FALSE,19.075589,72.889007,Mumbai,3.3,Chinese
+287,The Coconut Barfi Boutique Cafe,FALSE,13.033949,80.247092,Chennai,5,Japanese
+288,The Spice Box Cafe,FALSE,13.372128,74.74518,Udupi,4,Indian
+289,Biryani House House,TRUE,11.278978,75.742348,Kozhikode,2.7,Indian
+290,Royal India Grill,TRUE,12.961759,74.835666,Mangalore,4.2,Japanese
+291,The Lassi Lounge Bistro,FALSE,21.210029,72.874093,Surat,3.1,Chinese
+292,Himalayan Harvest Bistro,FALSE,12.256658,76.626595,Mysore,3.5,Japanese
+293,Tandoor Express House,FALSE,9.936445,76.229383,Kochi,4.5,Indian
+294,Tandoor Terrace Cafe,FALSE,9.942245,76.231655,Kochi,3.8,Indian
+295,Taste of Home Bistro,FALSE,13.010405,77.561673,Bangalore,3.9,Japanese
+296,Samosa King Cafe,TRUE,13.06324,80.279104,Chennai,4.7,Chinese
+297,Masala Bay Grill,TRUE,11.215849,75.801749,Kozhikode,4.9,Indian
+298,Tandoor Terrace House,TRUE,22.617185,88.345965,Kolkata,3.8,Chinese
+299,The Poppy Seed Plate Grill,FALSE,12.885758,74.874879,Mangalore,4.9,Japanese
+300,The Kheer Kitchen Grill,FALSE,13.348026,74.722089,Udupi,4.1,Japanese
+301,The Kaju Katli Cafe Cafe,FALSE,31.654761,74.847586,Amritsar,3.1,Indian
+302,Tandoor Terrace Bistro,TRUE,9.974365,76.221737,Kochi,4.8,Indian
+303,The Deccan Plateau Grill Bistro,FALSE,11.234461,75.749523,Kozhikode,4.9,Japanese
+304,Darjeeling Diner Bistro,TRUE,22.572179,88.32205,Kolkata,4.1,Chinese
+305,The Peacock Pavilion Kitchen,FALSE,31.640502,74.881557,Amritsar,2.6,Indian
+306,The Grand Trunk Road Kitchen Kitchen,TRUE,25.342503,82.950182,Varanasi,2.5,Chinese
+307,The Saffron Spot Grill,TRUE,13.074352,80.319821,Chennai,2.8,Chinese
+308,The Biryani Bowl Cafe,FALSE,17.36763,78.53482,Hyderabad,4.6,Indian
+309,Naan Stop House,FALSE,8.550068,76.953441,Trivandrum,4,Japanese
+310,Taste of Punjab Cafe,FALSE,11.269212,75.780435,Kozhikode,3.8,Japanese
+311,The Saffron Spot Kitchen,FALSE,12.269804,76.664661,Mysore,4.1,Indian
+312,Masala Mantra Bistro,TRUE,12.866195,74.878577,Mangalore,3.8,Japanese
+313,Biryani Bliss House,FALSE,12.941632,77.54817,Bangalore,4.1,Chinese
+314,The Barfi Bazaar Grill,FALSE,25.290646,82.926303,Varanasi,2.7,Japanese
+315,Kerala Kitchen House,FALSE,22.530477,88.351204,Kolkata,4.3,Japanese
+316,Kerala Kitchen Grill,TRUE,31.589512,74.875862,Amritsar,3,Indian
+317,Flavors of Delhi Cafe,FALSE,8.549876,76.906783,Trivandrum,3.7,Chinese
+318,The Rasgulla Restaurant Grill,FALSE,19.114873,72.845371,Mumbai,3,Chinese
+319,The Mango Lassi Bar House,TRUE,13.090996,80.250423,Chennai,4.4,Indian
+320,The Turmeric Trail Cafe,FALSE,9.967979,76.292898,Kochi,2.8,Chinese
+321,Chai & Chaat Grill,FALSE,19.039111,72.896241,Mumbai,3.3,Indian
+322,The Mustard Seed Kitchen,FALSE,11.213985,75.752687,Kozhikode,4.9,Chinese
+323,The Himalayan Foothills Diner Grill,TRUE,31.626781,74.851284,Amritsar,3.6,Chinese
+324,Kolkata Kitchen Grill,FALSE,13.117316,80.276456,Chennai,3,Indian
+325,The Cumin Club Kitchen,TRUE,19.096169,72.844124,Mumbai,3.2,Japanese
+326,The Himalayan Foothills Diner Kitchen,FALSE,31.653719,74.848116,Amritsar,3.9,Japanese
+327,Ganges Grill Cafe,FALSE,12.881152,74.806913,Mangalore,2.9,Japanese
+328,Idli Inn Bistro,FALSE,9.886321,76.261957,Kochi,3.4,Japanese
+329,The Masala Mill Kitchen,FALSE,21.216372,72.860773,Surat,4.9,Chinese
+330,The Malabar Coast Cafe Grill,FALSE,31.661307,74.881231,Amritsar,3,Indian
+331,The Tamarind Tree Kitchen,FALSE,9.903173,76.269519,Kochi,3.8,Indian
+332,Flavors of Delhi Kitchen,FALSE,25.271676,83.002574,Varanasi,4.2,Chinese
+333,The Spice Box Bistro,TRUE,8.56542,76.921041,Trivandrum,2.8,Chinese
+334,Bombay Bites Bistro,TRUE,13.067106,80.26818,Chennai,2.6,Japanese
+335,Kolkata Kitchen House,FALSE,13.334155,74.741768,Udupi,2.5,Japanese
+336,The Chili Chat Cafe,FALSE,18.470481,73.870683,Pune,4.1,Indian
+337,The Peda Palace Cafe,FALSE,19.041956,72.856264,Mumbai,3.3,Indian
+338,Aroma of Biryani Grill,FALSE,13.290734,74.709843,Udupi,4.8,Chinese
+339,The Lotus Leaf Lounge Bistro,FALSE,9.942183,76.251583,Kochi,3.1,Chinese
+340,The Coconut Grove Grill,FALSE,31.683061,74.878227,Amritsar,3.3,Chinese
+341,The Cardamom Pod Cafe,TRUE,17.369164,78.529804,Hyderabad,5,Japanese
+342,Goa Spice House,TRUE,13.117435,80.298576,Chennai,3.8,Indian
+343,The Spice Box Cafe,FALSE,11.224358,75.784748,Kozhikode,4.7,Indian
+344,The Chutney Jar Kitchen,TRUE,12.284929,76.648033,Mysore,3.9,Japanese
+345,Chutney Central Grill,FALSE,31.680993,74.915394,Amritsar,3.9,Indian
+346,The Tamarind Tree House,TRUE,25.315448,82.960749,Varanasi,2.8,Chinese
+347,The Fenugreek Feast Cafe,TRUE,11.212878,75.750654,Kozhikode,2.9,Chinese
+348,Tadka Town Bistro,FALSE,19.12343,72.90398,Mumbai,4.3,Indian
+349,Spice Paradise Cafe,TRUE,12.256352,76.637925,Mysore,3.9,Japanese
+350,The Coriander Cafe Cafe,TRUE,12.933411,74.875982,Mangalore,4.5,Japanese
+351,The Ladoo Lodge Bistro,TRUE,13.319159,74.746701,Udupi,3.7,Japanese
+352,Tadka Town Kitchen,FALSE,21.137054,72.810912,Surat,4.3,Indian
+353,The Masala Mill Cafe,TRUE,21.148928,72.839079,Surat,3.1,Japanese
+354,Mumbai Street Food Kitchen,TRUE,11.284209,75.740966,Kozhikode,4.5,Chinese
+355,Himalayan Harvest Bistro,TRUE,11.266204,75.766394,Kozhikode,2.6,Chinese
+356,The Mango Lassi Bar Cafe,FALSE,12.262287,76.594802,Mysore,2.7,Chinese
+357,The Papadum Paradise Grill,TRUE,13.03573,80.243184,Chennai,3.4,Japanese
+358,The Paratha Place Grill,FALSE,21.146705,72.810358,Surat,4.4,Chinese
+359,Mysore Masala House,FALSE,17.360881,78.442548,Hyderabad,4.1,Indian
+360,The Marigold Mahal Cafe,TRUE,13.319649,74.695988,Udupi,3.6,Chinese
+361,The Chutney Jar Bistro,FALSE,13.293325,74.739848,Udupi,3.2,Japanese
+362,Vada Villa Cafe,TRUE,13.377252,74.768428,Udupi,4.9,Japanese
+363,Royal India House,FALSE,13.347866,74.708108,Udupi,4.9,Indian
+364,Royal India Cafe,FALSE,9.918928,76.282758,Kochi,4.4,Indian
+365,The Peda Palace Kitchen,FALSE,13.130421,80.259793,Chennai,3.4,Indian
+366,The Coconut Barfi Boutique Cafe,FALSE,9.978994,76.284966,Kochi,2.5,Chinese
+367,Mysore Masala Kitchen,FALSE,18.549687,73.850542,Pune,3.7,Chinese
+368,The Coconut Barfi Boutique Grill,FALSE,12.953346,74.818738,Mangalore,4.4,Chinese
+369,Tadka Town Kitchen,TRUE,13.383975,74.791853,Udupi,4.4,Chinese
+370,The Himalayan Foothills Diner Bistro,FALSE,17.360088,78.518143,Hyderabad,3.1,Indian
+371,The Bay Leaf Bistro Kitchen,TRUE,21.148251,72.827544,Surat,4,Chinese
+372,The Badam Burfi Bistro Kitchen,FALSE,18.551432,73.838532,Pune,2.9,Chinese
+373,The Mango Tree Kitchen,FALSE,17.427767,78.498217,Hyderabad,3.2,Japanese
+374,The Sesame Street Kitchen Bistro,FALSE,11.261519,75.77212,Kozhikode,4.8,Chinese
+375,The Peacock Pavilion Grill,TRUE,17.409746,78.466733,Hyderabad,4.4,Japanese
+376,Bombay Bites Grill,FALSE,12.904813,74.886962,Mangalore,3.8,Indian
+377,Uttapam Union Kitchen,FALSE,8.564312,76.979163,Trivandrum,2.9,Japanese
+378,The Sesame Street Kitchen Grill,FALSE,11.288793,75.780961,Kozhikode,4,Chinese
+379,Biryani Bliss House,TRUE,8.489361,76.965486,Trivandrum,4.1,Japanese
+380,The Malabar Coast Cafe Kitchen,TRUE,12.307133,76.6356,Mysore,2.7,Japanese
+381,The Biryani Bowl Bistro,TRUE,13.367892,74.75545,Udupi,2.8,Indian
+382,The Kaju Katli Cafe Grill,FALSE,11.297062,75.81753,Kozhikode,3,Japanese
+383,The Cumin Club Grill,FALSE,22.532672,88.405429,Kolkata,3.2,Indian
+384,Spiced Roots Kitchen Bistro,TRUE,12.274427,76.598815,Mysore,3.3,Chinese
+385,Flavors of Delhi Cafe,FALSE,25.327717,82.93752,Varanasi,3,Japanese
+386,Ginger & Garlic Grill,FALSE,25.346521,83.020325,Varanasi,4.6,Indian
+387,Biryani House Bistro,FALSE,12.915014,74.897033,Mangalore,3.4,Chinese
+388,The Pickle Palace Cafe,FALSE,22.600643,88.323284,Kolkata,3.2,Japanese
+389,Chutney Central Kitchen,FALSE,12.326222,76.683188,Mysore,4.2,Chinese
+390,The Pulao Pot House,FALSE,18.475339,73.848097,Pune,4.6,Japanese
+391,The Paratha Place Cafe,FALSE,19.029724,72.860497,Mumbai,3.4,Indian
+392,The Garlic Grill House,FALSE,22.558998,88.347971,Kolkata,2.5,Chinese
+393,Chai & Chaat Bistro,FALSE,25.31269,83.008858,Varanasi,3.3,Chinese
+394,Curry & Naan Bistro,TRUE,12.987348,77.630854,Bangalore,3.9,Indian
+395,The Grand Trunk Road Kitchen Grill,FALSE,11.272391,75.798557,Kozhikode,4.5,Japanese
+396,Idli Inn Bistro,TRUE,11.20907,75.737565,Kozhikode,3.8,Japanese
+397,The Kulfi Corner Bistro,FALSE,18.510392,73.893734,Pune,3.9,Japanese
+398,Masala Mantra Cafe,FALSE,11.218879,75.772742,Kozhikode,3.7,Indian
+399,The Barfi Bazaar Cafe,FALSE,12.967655,77.564202,Bangalore,3.4,Japanese
+400,Samosa King Kitchen,FALSE,19.046935,72.879268,Mumbai,3.9,Indian
+401,Samosa King Cafe,FALSE,19.093159,72.916125,Mumbai,4.4,Indian
+402,The Mint Mansion Kitchen,FALSE,11.233234,75.804438,Kozhikode,3.4,Chinese
+403,Lucknow Lounge Grill,FALSE,12.933804,77.591288,Bangalore,3,Chinese
+404,The Gulab Jamun Gallery Grill,TRUE,12.311184,76.611187,Mysore,3.1,Chinese
+405,The Kheer Kitchen Bistro,FALSE,17.349897,78.524973,Hyderabad,4.8,Indian
+406,The Ashoka Restaurant House,FALSE,18.485364,73.860622,Pune,4.2,Indian
+407,The Nutmeg Nook Cafe,FALSE,13.038838,80.310782,Chennai,3.6,Chinese
+408,The Mango Tree Bistro,FALSE,13.12115,80.27463,Chennai,2.5,Japanese
+409,Agra Asado Kitchen,FALSE,13.352271,74.748502,Udupi,4.7,Indian
+410,The Jalebi Junction House,TRUE,18.56294,73.823559,Pune,4.3,Indian
+411,The Bay Leaf Bistro Bistro,FALSE,17.361111,78.470555,Hyderabad,4.2,Indian
+412,The Rasgulla Restaurant House,FALSE,13.079691,80.229608,Chennai,3.1,Chinese
+413,The Saffron Spot Cafe,FALSE,17.350016,78.474441,Hyderabad,4.7,Chinese
+414,The Cardamom Pod Kitchen,FALSE,31.622195,74.865042,Amritsar,3.7,Indian
+415,Masala Bay Grill,TRUE,31.674817,74.885457,Amritsar,4,Japanese
+416,Delhi Delights Kitchen,FALSE,11.282402,75.819685,Kozhikode,3.5,Indian
+417,The Raita Retreat Bistro,FALSE,13.117766,80.30885,Chennai,4.4,Chinese
+418,The Marigold Mahal Cafe,FALSE,13.099185,80.299007,Chennai,4.3,Indian
+419,The Mint Mansion Kitchen,FALSE,25.299969,82.950455,Varanasi,3.9,Chinese
+420,The Saffron Plate Bistro,TRUE,13.38734,74.775054,Udupi,2.7,Indian
+421,Tikka Trails House,FALSE,12.321465,76.653285,Mysore,4.5,Indian
+422,Samosa Station Grill,FALSE,22.601309,88.400517,Kolkata,4.9,Chinese
+423,The Kulfi Corner Cafe,FALSE,13.326196,74.725846,Udupi,3.1,Indian
+424,The Clove Corner Kitchen,FALSE,12.96092,77.573886,Bangalore,4.8,Japanese
+425,The Spice Box Kitchen,TRUE,31.651593,74.852553,Amritsar,3.2,Chinese
+426,Chutney & Chai House,FALSE,8.525746,76.980525,Trivandrum,3.2,Indian
+427,The Biryani Bowl Bistro,FALSE,13.052854,80.318872,Chennai,4.7,Indian
+428,Himalayan Harvest House,FALSE,12.907579,74.807476,Mangalore,3.9,Japanese
+429,Desi Bites Kitchen,FALSE,11.29303,75.780824,Kozhikode,2.7,Indian
+430,Naan Stop Kitchen,TRUE,19.027433,72.830637,Mumbai,3.3,Japanese
+431,The Curry Leaf House,TRUE,8.492476,76.926607,Trivandrum,2.8,Indian
+432,Ginger & Garlic House,FALSE,9.925934,76.276592,Kochi,3.5,Chinese
+433,Currylicious Kitchen,TRUE,13.31184,74.698574,Udupi,2.7,Indian
+434,Spiced Roots Kitchen House,TRUE,12.979057,77.621588,Bangalore,3.7,Japanese
+435,The Tandoor Oven Bistro,FALSE,21.133453,72.785205,Surat,4.8,Chinese
+436,The Bengal Tiger Bistro Grill,FALSE,12.333861,76.599836,Mysore,3.7,Indian
+437,Tandoori Nights Bistro,FALSE,22.608728,88.362759,Kolkata,2.6,Japanese
+438,Hyderabad House Grill,FALSE,18.478968,73.883416,Pune,2.6,Japanese
+439,Spice Garden House,FALSE,12.908964,74.873614,Mangalore,4.7,Indian
+440,The Coriander Cafe House,FALSE,12.270369,76.676771,Mysore,3.5,Indian
+441,Ginger & Garlic Grill,TRUE,19.07076,72.848824,Mumbai,4.1,Chinese
+442,Butter Chicken Bungalow Cafe,FALSE,12.964972,77.554849,Bangalore,3.9,Japanese
+443,Chutney Central Grill,TRUE,12.950653,77.561374,Bangalore,4.1,Indian
+444,The Roti Room Grill,FALSE,18.551186,73.876805,Pune,3.7,Chinese
+445,The Biryani Bowl Bistro,TRUE,31.625194,74.87396,Amritsar,4.2,Indian
+446,The Coriander Cafe Grill,FALSE,13.087981,80.257585,Chennai,3.5,Indian
+447,The Royal Thali House,TRUE,12.937425,74.815233,Mangalore,3,Indian
+448,Curry & Naan Bistro,TRUE,21.171037,72.869965,Surat,2.6,Indian
+449,Flavor of India Grill,TRUE,22.53491,88.32668,Kolkata,3.6,Indian
+450,Spice Route Bistro Cafe,FALSE,13.295698,74.746432,Udupi,3.8,Chinese
+451,The Raita Retreat Cafe,FALSE,19.123318,72.868315,Mumbai,4.5,Indian
+452,The Poppy Seed Plate House,TRUE,8.478089,76.980834,Trivandrum,4.2,Japanese
+453,Desi Tadka Bistro,TRUE,12.947535,74.861593,Mangalore,4.3,Japanese
+454,The Turmeric Trail Cafe,TRUE,18.519381,73.851623,Pune,2.6,Chinese
+455,Rajasthan Royals Cafe,TRUE,11.231168,75.782732,Kozhikode,4.4,Japanese
+456,Taste of Home Bistro,FALSE,21.174137,72.876838,Surat,4.4,Chinese
+457,Spice Merchant Grill,TRUE,25.282377,82.949005,Varanasi,4,Japanese
+458,Flavors of Delhi Cafe,FALSE,31.645855,74.881219,Amritsar,3.4,Indian
+459,Butter Chicken Bungalow House,TRUE,13.1259,80.230784,Chennai,3.8,Japanese
+460,Himalayan Harvest House,FALSE,13.064863,80.227959,Chennai,4.2,Indian
+461,Kerala Kitchen Kitchen,TRUE,19.100682,72.872359,Mumbai,3.1,Japanese
+462,Flavors of Delhi Kitchen,FALSE,12.271343,76.667508,Mysore,4.4,Japanese
+463,Naan Stop House,TRUE,18.477695,73.896143,Pune,2.7,Japanese
+464,The Peacock Pavilion House,FALSE,21.206299,72.7929,Surat,4.4,Indian
+465,Currylicious House,TRUE,9.970093,76.229995,Kochi,5,Japanese
+466,Dosa Destination Cafe,FALSE,21.157288,72.868279,Surat,4.8,Indian
+467,Royal India House,TRUE,13.386397,74.722322,Udupi,3.7,Chinese
+468,The Coriander Cafe Grill,FALSE,13.35992,74.781053,Udupi,3.6,Indian
+469,The Mint Mansion Bistro,FALSE,22.542185,88.318345,Kolkata,2.8,Chinese
+470,Spice Route Bistro Cafe,FALSE,11.217163,75.742048,Kozhikode,3.1,Japanese
+471,Lucknow Lounge House,FALSE,12.936547,74.821285,Mangalore,3.5,Japanese
+472,Masala Mantra Cafe,FALSE,18.485829,73.836338,Pune,3.5,Indian
+473,Mumbai Street Food Bistro,FALSE,18.515431,73.878915,Pune,5,Japanese
+474,The Saffron Spot Grill,FALSE,19.05679,72.83331,Mumbai,3.9,Chinese
+475,The Chutney Jar Bistro,FALSE,12.926954,77.625174,Bangalore,3.2,Indian
+476,Indus Flavors Kitchen,TRUE,22.588707,88.383931,Kolkata,4,Chinese
+477,Chutney & Chai Grill,FALSE,13.057937,80.249275,Chennai,3.3,Japanese
+478,Chennai Chef Kitchen,TRUE,12.925999,77.616339,Bangalore,2.8,Indian
+479,The Coriander Cafe Bistro,FALSE,25.365662,82.979504,Varanasi,4,Japanese
+480,The Cardamom Pod Bistro,FALSE,12.33474,76.676682,Mysore,2.6,Japanese
+481,The Curry Pot Grill,FALSE,8.482586,76.953704,Trivandrum,4.2,Japanese
+482,Tandoor Express Bistro,TRUE,18.512997,73.815625,Pune,4,Chinese
+483,Idli Inn Grill,FALSE,17.408377,78.525753,Hyderabad,4.3,Indian
+484,The Chili Chat Bistro,FALSE,21.160136,72.83792,Surat,3.4,Japanese
+485,The Halwa House Kitchen,FALSE,17.366594,78.506513,Hyderabad,3.3,Chinese
+486,Mysore Masala Kitchen,FALSE,13.33814,74.730375,Udupi,4.1,Indian
+487,Tikka Trails Grill,TRUE,11.225791,75.800943,Kozhikode,4.9,Indian
+488,Tandoor Express Kitchen,TRUE,25.286728,82.932456,Varanasi,4.1,Japanese
+489,The Sesame Street Kitchen House,FALSE,25.269043,82.969796,Varanasi,4.2,Chinese
+490,Aromas of India Grill,FALSE,12.95455,77.551314,Bangalore,3.6,Japanese
+491,The Cumin Club Bistro,FALSE,12.271955,76.63482,Mysore,3.7,Indian
+492,The Halwa House Bistro,FALSE,12.928707,74.887481,Mangalore,4.5,Japanese
+493,Darjeeling Diner Bistro,FALSE,17.345431,78.448213,Hyderabad,3.1,Indian
+494,The Ginger Garden House,TRUE,9.884611,76.241432,Kochi,3.8,Japanese
+495,Goa Spice Cafe,FALSE,31.647782,74.903109,Amritsar,4.8,Indian
+496,The Fenugreek Feast Cafe,FALSE,19.078337,72.855998,Mumbai,2.5,Chinese
+497,The Kulfi Corner Grill,FALSE,8.490547,76.903842,Trivandrum,3.7,Indian
+498,The Grand Trunk Road Kitchen Bistro,TRUE,13.069018,80.292484,Chennai,4.9,Japanese
+499,The Garlic Grill Grill,TRUE,22.621318,88.336968,Kolkata,4.7,Japanese
+500,Aroma of Biryani Grill,TRUE,31.662708,74.836529,Amritsar,3.4,Chinese
+501,Kolkata Kitchen Bistro,FALSE,19.041058,72.926299,Mumbai,3.7,Chinese
+502,The Pulao Pot Bistro,FALSE,12.994544,77.57065,Bangalore,4.7,Japanese
+503,Desi Bites Grill,FALSE,18.541236,73.890991,Pune,3.7,Indian
+504,The Pickle Palace Bistro,FALSE,12.282608,76.618591,Mysore,2.6,Japanese
+505,Lucknow Lounge House,FALSE,12.925518,77.643661,Bangalore,3.6,Indian
+506,Spice Garden Grill,TRUE,31.646758,74.867498,Amritsar,4.9,Japanese
+507,The Lotus Leaf Lounge Bistro,TRUE,12.874736,74.879701,Mangalore,4.7,Japanese
+508,Biryani Bliss Cafe,FALSE,17.335342,78.51638,Hyderabad,2.6,Chinese
+509,The Sesame Street Kitchen House,TRUE,12.874132,74.870932,Mangalore,3.5,Japanese
+510,The Kheer Kitchen Grill,FALSE,17.354044,78.523483,Hyderabad,4.6,Chinese
+511,The Cardamom Pod House,TRUE,8.572579,76.934903,Trivandrum,3.9,Japanese
+512,The Star Anise Supper Club House,FALSE,9.909132,76.235426,Kochi,2.6,Japanese
+513,The Cumin Club Kitchen,FALSE,18.56713,73.826144,Pune,4.7,Japanese
+514,Flavors of Delhi Bistro,TRUE,13.005072,77.632799,Bangalore,3.5,Chinese
+515,Punjab Grill Kitchen,FALSE,11.224213,75.785231,Kozhikode,2.8,Indian
+516,The Rasgulla Restaurant Bistro,FALSE,17.369901,78.530718,Hyderabad,2.7,Chinese
+517,The Chili Chat Bistro,FALSE,19.027363,72.887353,Mumbai,4,Indian
+518,Butter Chicken Bungalow House,FALSE,22.587323,88.371328,Kolkata,3.8,Chinese
+519,The Paratha Place Bistro,TRUE,18.517758,73.83253,Pune,3.7,Japanese
+520,Masala Mantra Kitchen,FALSE,18.494802,73.834166,Pune,2.9,Japanese
+521,Naan Stop House,TRUE,12.966095,77.576862,Bangalore,2.5,Japanese
+522,The Deccan Plateau Grill Grill,TRUE,12.937424,77.576979,Bangalore,2.8,Japanese
+523,Uttapam Union Grill,FALSE,18.512372,73.890332,Pune,3.5,Chinese
+524,Spice Merchant Cafe,TRUE,11.251748,75.756786,Kozhikode,4.2,Chinese
+525,Spice Merchant Cafe,FALSE,11.253861,75.765686,Kozhikode,4,Indian
+526,Samosa King Cafe,FALSE,13.09463,80.25451,Chennai,2.5,Japanese
+527,Tadka Town Kitchen,TRUE,22.615741,88.368015,Kolkata,3.2,Chinese
+528,The Roti Room House,FALSE,21.154136,72.832576,Surat,4.7,Indian
+529,The Cinnamon Circle House,TRUE,12.962477,74.854597,Mangalore,3.6,Chinese
+530,The Paratha Place Grill,FALSE,25.349433,82.98569,Varanasi,2.6,Indian
+531,Chutney Central Cafe,TRUE,13.077164,80.273442,Chennai,4.3,Japanese
+532,The Mysore Pak Mansion Grill,FALSE,12.913077,74.881454,Mangalore,4.3,Indian
+533,Ganges Grill Grill,TRUE,25.304441,82.938524,Varanasi,4.9,Chinese
+534,Tadka Town Grill,FALSE,13.379525,74.706672,Udupi,4.9,Japanese
+535,The Pickle Palace House,FALSE,12.312695,76.654861,Mysore,4.6,Chinese
+536,The Mysore Pak Mansion Kitchen,FALSE,12.259142,76.669431,Mysore,3.5,Chinese
+537,The Ashoka Restaurant Cafe,FALSE,8.573488,76.978783,Trivandrum,4.5,Japanese
+538,The Pulao Pot Grill,FALSE,21.146393,72.810624,Surat,2.5,Chinese
+539,The Lotus Leaf Lounge Kitchen,FALSE,12.942995,74.900231,Mangalore,3.7,Indian
+540,Ginger & Garlic Grill,FALSE,12.309437,76.61301,Mysore,2.6,Chinese
+541,Tadka Town Grill,FALSE,21.146364,72.874912,Surat,4.3,Indian
+542,Mumbai Street Food Grill,FALSE,18.514631,73.894398,Pune,2.6,Chinese
+543,Currylicious Kitchen,TRUE,18.516438,73.899704,Pune,4.3,Indian
+544,Himalayan Harvest Bistro,FALSE,21.125333,72.822709,Surat,3,Chinese
+545,The Papadum Paradise Grill,TRUE,21.186849,72.785225,Surat,2.8,Japanese
+546,Currylicious Bistro,TRUE,25.285588,82.960618,Varanasi,3.9,Chinese
+547,The Raita Retreat Kitchen,TRUE,12.286661,76.630031,Mysore,4.4,Chinese
+548,The Kaju Katli Cafe Kitchen,FALSE,12.986267,77.618631,Bangalore,4.4,Chinese
+549,Chennai Chef Grill,FALSE,17.402671,78.477975,Hyderabad,2.7,Indian
+550,Idli Inn Bistro,FALSE,11.303415,75.809915,Kozhikode,4.4,Japanese
+551,Tikka Trails Kitchen,TRUE,22.608214,88.346058,Kolkata,3.4,Chinese
+552,Indus Flavors Grill,TRUE,21.173479,72.816782,Surat,4.2,Indian
+553,Mysore Masala Kitchen,FALSE,19.097165,72.895831,Mumbai,4.8,Japanese
+554,The Peda Palace Kitchen,FALSE,22.612576,88.31802,Kolkata,3.3,Japanese
+555,Currylicious Grill,FALSE,31.660373,74.915883,Amritsar,4.7,Chinese
+556,The Malabar Coast Cafe Bistro,FALSE,25.320673,82.92991,Varanasi,5,Japanese
+557,The Curry Leaf Cafe,FALSE,19.090921,72.893562,Mumbai,2.8,Japanese
+558,Spice Paradise House,TRUE,25.335936,82.951329,Varanasi,3.3,Indian
+559,Spice Route Bistro House,FALSE,12.927436,77.601778,Bangalore,4.4,Chinese
+560,Punjab Grill Grill,FALSE,18.507087,73.864655,Pune,3,Indian
+561,Spice Route Bistro Cafe,FALSE,13.378116,74.752143,Udupi,4.1,Japanese
+562,The Malabar Coast Cafe Bistro,FALSE,8.52264,76.89798,Trivandrum,4.7,Indian
+563,Ganges Grill House,FALSE,13.057568,80.254516,Chennai,3.8,Chinese
+564,The Chutney Jar Bistro,FALSE,8.50557,76.905123,Trivandrum,3.6,Japanese
+565,The Mint Mansion Grill,FALSE,11.247591,75.762288,Kozhikode,4.1,Japanese
+566,The Fenugreek Feast Grill,FALSE,12.989885,77.613028,Bangalore,2.6,Japanese
+567,The Rasgulla Restaurant House,TRUE,31.609935,74.867988,Amritsar,4.6,Indian
+568,Tandoori Nights House,TRUE,8.511686,76.928276,Trivandrum,2.6,Indian
+569,Hyderabad House Bistro,FALSE,9.961306,76.231214,Kochi,4.7,Chinese
+570,Dosa Destination Bistro,TRUE,12.24623,76.657338,Mysore,4.6,Chinese
+571,Curry & Naan Bistro,FALSE,19.107625,72.916818,Mumbai,3.1,Japanese
+572,The Star Anise Supper Club House,FALSE,25.307473,83.016541,Varanasi,5,Indian
+573,The Coconut Barfi Boutique Bistro,TRUE,22.600667,88.36034,Kolkata,4.1,Chinese
+574,The Chutney Jar Kitchen,FALSE,13.083738,80.252772,Chennai,3.9,Indian
+575,The Barfi Bazaar Kitchen,FALSE,12.888629,74.89061,Mangalore,4.8,Japanese
+576,Flavors of Delhi Grill,TRUE,18.50504,73.893944,Pune,3,Chinese
+577,Curry Kingdom House,TRUE,8.552308,76.975667,Trivandrum,4.8,Japanese
+578,The Jalebi Junction Bistro,TRUE,19.106894,72.877316,Mumbai,4.3,Indian
+579,Currylicious Kitchen,FALSE,8.548772,76.96521,Trivandrum,3.8,Indian
+580,The Peda Palace Bistro,FALSE,18.551313,73.887196,Pune,4.5,Japanese
+581,The Tandoor Oven Cafe,FALSE,11.237819,75.773009,Kozhikode,3.9,Chinese
+582,Tadka Town Grill,FALSE,13.311248,74.744753,Udupi,3.1,Japanese
+583,Uttapam Union Cafe,TRUE,9.885012,76.28763,Kochi,4.4,Indian
+584,The Jalebi Junction Grill,TRUE,25.36483,82.959121,Varanasi,3.2,Indian
+585,Uttapam Union House,TRUE,9.886797,76.256865,Kochi,4.4,Indian
+586,Tikka Trails Bistro,FALSE,21.123892,72.807302,Surat,4.5,Chinese
+587,The Ashoka Restaurant House,TRUE,21.12421,72.781425,Surat,4.2,Indian
+588,The Marigold Mahal Kitchen,FALSE,19.033574,72.897029,Mumbai,3.1,Chinese
+589,The Nutmeg Nook Grill,TRUE,11.252869,75.754562,Kozhikode,3.1,Indian
+590,Tandoor Terrace Grill,TRUE,13.124606,80.223476,Chennai,4.4,Chinese
+591,Bombay Bites Kitchen,TRUE,13.099427,80.306305,Chennai,4.7,Indian
+592,Tadka Town Kitchen,FALSE,11.284474,75.741725,Kozhikode,5,Chinese
+593,The Coconut Grove Bistro,FALSE,19.111661,72.864894,Mumbai,3.9,Indian
+594,The Turmeric Trail House,FALSE,8.499285,76.985345,Trivandrum,4.5,Indian
+595,The Bay Leaf Bistro Kitchen,FALSE,17.339809,78.50966,Hyderabad,4,Chinese
+596,The Papadum Paradise House,FALSE,8.475363,76.914802,Trivandrum,4.1,Chinese
+597,The Biryani Bowl Grill,TRUE,12.288093,76.66642,Mysore,4.2,Chinese
+598,The Rasgulla Restaurant Cafe,FALSE,13.008184,77.599724,Bangalore,4.9,Indian
+599,Samosa King House,FALSE,11.252913,75.816787,Kozhikode,2.7,Japanese
+600,Samosa King Grill,FALSE,25.314491,82.989029,Varanasi,3.7,Japanese
+601,Taste of Home House,FALSE,17.414242,78.480315,Hyderabad,2.6,Indian
+602,The Chili Chat House,FALSE,9.941444,76.316322,Kochi,2.8,Indian
+603,The Mint Mansion Kitchen,TRUE,13.309192,74.791403,Udupi,3.9,Chinese
+604,Samosa Station Grill,FALSE,18.487991,73.89873,Pune,4.4,Indian
+605,The Coconut Grove House,FALSE,11.219819,75.8234,Kozhikode,4.2,Indian
+606,The Coconut Barfi Boutique Bistro,FALSE,19.085032,72.829163,Mumbai,3.6,Chinese
+607,The Mango Tree Bistro,TRUE,13.294588,74.738342,Udupi,4.8,Japanese
+608,Vada Villa House,FALSE,31.586974,74.872027,Amritsar,2.7,Indian
+609,Flavor of India Grill,FALSE,22.599521,88.330924,Kolkata,4.1,Indian
+610,Tadka Town Grill,FALSE,21.125185,72.841983,Surat,3.1,Chinese
+611,Kolkata Kitchen Grill,FALSE,19.078118,72.89684,Mumbai,2.7,Japanese
+612,Indian Zaika Cafe,FALSE,21.167468,72.849386,Surat,4.7,Japanese
+613,The Tandoor Oven House,FALSE,18.52738,73.859711,Pune,4.4,Indian
+614,Naan Stop House,FALSE,13.338593,74.764627,Udupi,3.2,Indian
+615,Desi Tadka Kitchen,FALSE,25.357595,83.020639,Varanasi,4.6,Japanese
+616,Butter Chicken Bungalow Bistro,FALSE,13.018202,77.641354,Bangalore,4.7,Indian
+617,The Grand Trunk Road Kitchen Bistro,TRUE,11.261925,75.748042,Kozhikode,4.8,Japanese
+618,The Banyan Tree Cafe Cafe,FALSE,18.503412,73.828264,Pune,2.9,Indian
+619,Spiced Roots Kitchen Kitchen,FALSE,13.089889,80.255485,Chennai,3.4,Indian
+620,The Tamarind Tree Grill,FALSE,18.491093,73.877978,Pune,4.6,Japanese
+621,Spice Merchant Grill,FALSE,22.590484,88.333392,Kolkata,4.3,Chinese
+622,Himalayan Harvest House,TRUE,13.315872,74.697847,Udupi,3.6,Indian
+623,The Mysore Pak Mansion House,FALSE,13.044677,80.317698,Chennai,3.5,Chinese
+624,Idli Inn House,TRUE,17.40475,78.503588,Hyderabad,3.6,Chinese
+625,The Curry Pot Cafe,TRUE,9.893131,76.227775,Kochi,4.3,Chinese
+626,Vada Villa House,FALSE,9.943172,76.286105,Kochi,2.8,Indian
+627,The Tandoor Oven House,FALSE,8.550159,76.933825,Trivandrum,3.2,Indian
+628,Hyderabad House Kitchen,FALSE,22.580067,88.345721,Kolkata,3.9,Indian
+629,Tandoori Nights Bistro,FALSE,21.187236,72.8219,Surat,4.2,Japanese
+630,The Cardamom Pod Cafe,FALSE,12.877622,74.897795,Mangalore,3.9,Chinese
+631,Spice Route Bistro House,FALSE,12.881449,74.85586,Mangalore,3.3,Japanese
+632,The Deccan Plateau Grill Bistro,FALSE,22.575531,88.322422,Kolkata,2.8,Japanese
+633,The Curry Leaf Cafe,FALSE,25.268894,82.978446,Varanasi,2.8,Japanese
+634,Kolkata Kitchen House,FALSE,13.078398,80.297132,Chennai,4.5,Chinese
+635,Vada Villa Kitchen,TRUE,17.433729,78.478708,Hyderabad,3.7,Chinese
+636,The Kulfi Corner Bistro,TRUE,13.355227,74.748894,Udupi,3.9,Indian
+637,Agra Asado Cafe,FALSE,21.138563,72.856961,Surat,3.3,Indian
+638,The Naan Nest Grill,TRUE,25.353815,82.953644,Varanasi,4.4,Indian
+639,The Garlic Grill Kitchen,FALSE,12.246201,76.615499,Mysore,4,Japanese
+640,The Raita Retreat Bistro,TRUE,19.05673,72.915796,Mumbai,4.3,Indian
+641,The Rasgulla Restaurant Bistro,FALSE,25.294005,83.014718,Varanasi,4.3,Japanese
+642,The Clove Corner Bistro,FALSE,22.58986,88.385897,Kolkata,3.7,Chinese
+643,The Malabar Coast Cafe House,FALSE,13.125468,80.287886,Chennai,4.1,Chinese
+644,Idli Inn Bistro,TRUE,8.514126,76.965867,Trivandrum,4.2,Chinese
+645,Desi Bites Bistro,FALSE,17.400189,78.439757,Hyderabad,2.9,Japanese
+646,Flavors of Delhi Cafe,FALSE,25.273033,82.969866,Varanasi,4.7,Japanese
+647,The Jalebi Junction Grill,TRUE,19.113301,72.836894,Mumbai,3.8,Chinese
+648,The Mango Lassi Bar Kitchen,FALSE,19.080948,72.859716,Mumbai,2.7,Japanese
+649,The Peacock Pavilion Kitchen,TRUE,31.59058,74.875255,Amritsar,3.8,Chinese
+650,Spiced Roots Kitchen Kitchen,FALSE,8.550336,76.953878,Trivandrum,3.3,Indian
+651,Royal India Cafe,TRUE,25.338201,82.970198,Varanasi,3.7,Indian
+652,The Masala Mill Kitchen,FALSE,13.001315,77.627336,Bangalore,2.7,Japanese
+653,The Paratha Place House,FALSE,13.328913,74.770118,Udupi,2.8,Indian
+654,The Naan Nest Cafe,TRUE,13.131858,80.289746,Chennai,4,Chinese
+655,Ginger & Garlic Bistro,TRUE,31.625458,74.887017,Amritsar,4.1,Japanese
+656,Biryani House House,TRUE,21.215454,72.848854,Surat,3.9,Indian
+657,The Biryani Bowl Grill,FALSE,31.66515,74.909086,Amritsar,4.2,Japanese
+658,The Gulab Jamun Gallery House,FALSE,22.549003,88.34371,Kolkata,4.6,Indian
+659,The Mango Lassi Bar Bistro,FALSE,19.096817,72.859837,Mumbai,3,Chinese
+660,Mysore Masala House,FALSE,13.016222,77.61243,Bangalore,3.3,Japanese
+661,The Deccan Plateau Grill Grill,TRUE,18.549261,73.809622,Pune,3.6,Indian
+662,The Biryani Bowl Bistro,FALSE,31.636975,74.913703,Amritsar,4.4,Chinese
+663,The Grand Trunk Road Kitchen Grill,FALSE,12.249425,76.646385,Mysore,4.1,Indian
+664,The Sesame Street Kitchen House,TRUE,12.990249,77.549415,Bangalore,2.7,Japanese
+665,The Curry Leaf House,FALSE,21.161091,72.855598,Surat,3.1,Chinese
+666,Goa Spice Grill,FALSE,13.338013,74.705551,Udupi,2.5,Chinese
+667,Bombay Bites House,TRUE,12.991009,77.606292,Bangalore,4.5,Japanese
+668,Taste of Punjab Cafe,FALSE,9.921647,76.267317,Kochi,4.1,Indian
+669,Desi Bites House,FALSE,18.509201,73.90224,Pune,3.2,Chinese
+670,The Paratha Place Cafe,TRUE,31.680921,74.920735,Amritsar,4.4,Chinese
+671,The Halwa House Cafe,TRUE,31.661316,74.838307,Amritsar,4.8,Indian
+672,Punjab Grill Bistro,TRUE,13.063776,80.250932,Chennai,4.7,Chinese
+673,The Chili Chat Grill,FALSE,12.898023,74.807439,Mangalore,4.9,Indian
+674,The Cinnamon Circle Kitchen,FALSE,22.530696,88.370406,Kolkata,2.6,Japanese
+675,Ganges Grill Kitchen,TRUE,9.934236,76.217683,Kochi,4.4,Indian
+676,The Coconut Grove Bistro,TRUE,17.365639,78.527864,Hyderabad,2.7,Indian
+677,The Paratha Place Cafe,FALSE,12.252877,76.659582,Mysore,4,Chinese
+678,The Coriander Cafe Grill,TRUE,25.299203,82.92559,Varanasi,4.5,Chinese
+679,Chutney & Chai House,FALSE,13.068224,80.299143,Chennai,4.4,Indian
+680,Bombay Bites House,FALSE,11.281421,75.740106,Kozhikode,2.6,Chinese
+681,Himalayan Harvest Kitchen,FALSE,11.299809,75.776362,Kozhikode,3.6,Chinese
+682,Bombay Bites Cafe,FALSE,18.545555,73.901153,Pune,4.1,Chinese
+683,Idli Inn House,FALSE,25.274535,82.997903,Varanasi,4.9,Chinese
+684,Aromas of India House,TRUE,9.96976,76.220788,Kochi,4.2,Indian
+685,Dosa Destination Kitchen,FALSE,12.902374,74.843348,Mangalore,5,Chinese
+686,The Jalebi Junction House,TRUE,25.321888,82.984074,Varanasi,4.1,Indian
+687,Butter Chicken Bungalow Grill,TRUE,12.932357,74.853406,Mangalore,3.2,Indian
+688,The Curry Leaf Cafe,TRUE,25.35343,82.933944,Varanasi,2.8,Japanese
+689,Masala Mantra House,FALSE,12.315401,76.648257,Mysore,3.7,Japanese
+690,Biryani House Cafe,FALSE,12.337038,76.685616,Mysore,3,Indian
+691,The Mango Lassi Bar House,TRUE,25.292709,82.924017,Varanasi,5,Japanese
+692,The Peacock Pavilion House,TRUE,22.615057,88.356255,Kolkata,2.5,Chinese
+693,Darjeeling Diner House,FALSE,31.623413,74.904768,Amritsar,3.7,Chinese
+694,The Deccan Plateau Grill Grill,FALSE,19.101528,72.91674,Mumbai,4.7,Chinese
+695,The Lotus Leaf Lounge Bistro,FALSE,31.589604,74.868401,Amritsar,3,Indian
+696,The Saffron Plate Grill,FALSE,11.3018,75.755184,Kozhikode,4.4,Indian
+697,Royal India Cafe,FALSE,31.585967,74.847703,Amritsar,3.5,Japanese
+698,Chennai Chef Bistro,FALSE,13.058794,80.282441,Chennai,4.3,Japanese
+699,The Lassi Lounge Kitchen,FALSE,13.085833,80.237986,Chennai,3.7,Japanese
+700,The Ashoka Restaurant Kitchen,FALSE,31.662894,74.866027,Amritsar,3,Chinese
+701,Spice Merchant Grill,FALSE,17.353561,78.534202,Hyderabad,4.3,Chinese
+702,The Royal Thali Kitchen,FALSE,13.056437,80.292024,Chennai,2.9,Indian
+703,The Deccan Plateau Grill Bistro,TRUE,17.404977,78.450744,Hyderabad,3.5,Japanese
+704,The Clove Corner Bistro,FALSE,22.596984,88.373474,Kolkata,3.4,Indian
+705,The Grand Trunk Road Kitchen Kitchen,TRUE,22.618033,88.362481,Kolkata,3.1,Chinese
+706,Ginger & Garlic Kitchen,FALSE,18.473929,73.829273,Pune,4.7,Chinese
+707,The Spice Box Kitchen,FALSE,12.889445,74.883904,Mangalore,2.6,Chinese
+708,Chutney & Chai Cafe,FALSE,9.950603,76.263267,Kochi,3.1,Chinese
+709,The Garlic Grill Kitchen,FALSE,13.342992,74.723454,Udupi,3.6,Chinese
+710,Spice Merchant Bistro,TRUE,12.940801,74.884051,Mangalore,4.9,Chinese
+711,The Ginger Garden Kitchen,TRUE,25.275257,82.959956,Varanasi,4.9,Japanese
+712,The Papadum Paradise Cafe,FALSE,12.891963,74.831483,Mangalore,3.7,Indian
+713,Taste of Punjab House,FALSE,8.487648,76.893033,Trivandrum,3.2,Chinese
+714,Ginger & Garlic Cafe,FALSE,21.121027,72.837172,Surat,3.2,Chinese
+715,The Royal Thali Kitchen,FALSE,31.594062,74.86302,Amritsar,2.8,Japanese
+716,The Fenugreek Feast Bistro,FALSE,21.19301,72.845921,Surat,3.4,Chinese
+717,The Pickle Palace Kitchen,FALSE,13.373936,74.720117,Udupi,3.5,Indian
+718,The Tamarind Tree Cafe,FALSE,9.900786,76.248065,Kochi,2.9,Indian
+719,The Rasgulla Restaurant House,FALSE,19.050663,72.907495,Mumbai,2.5,Indian
+720,Spice Garden Cafe,TRUE,17.414016,78.50131,Hyderabad,4.5,Japanese
+721,Butter Chicken Bungalow Bistro,FALSE,18.47475,73.818192,Pune,3.5,Japanese
+722,The Sandalwood Terrace House,FALSE,31.669172,74.863294,Amritsar,3.8,Japanese
+723,The Spice Box House,FALSE,12.908602,74.869872,Mangalore,3.7,Indian
+724,Chutney & Chai Bistro,FALSE,31.598085,74.89089,Amritsar,4.7,Indian
+725,The Ladoo Lodge Kitchen,TRUE,22.561198,88.364245,Kolkata,4.5,Japanese
+726,The Raita Retreat Bistro,FALSE,11.261879,75.821054,Kozhikode,3.2,Indian
+727,Aroma of Biryani House,FALSE,22.599746,88.356484,Kolkata,3.7,Indian
+728,The Rasgulla Restaurant Grill,FALSE,25.321741,82.953761,Varanasi,3.5,Japanese
+729,Dosa Destination Bistro,TRUE,11.238588,75.769068,Kozhikode,4.4,Japanese
+730,The Malabar Coast Cafe Cafe,FALSE,11.264789,75.796245,Kozhikode,4.4,Japanese
+731,Flavor of India House,FALSE,11.247998,75.814731,Kozhikode,3.8,Chinese
+732,The Mint Mansion Grill,TRUE,21.200937,72.785763,Surat,2.6,Chinese
+733,The Curry Pot House,FALSE,31.615638,74.897039,Amritsar,4,Indian
+734,Ginger & Garlic Bistro,TRUE,12.956367,74.815863,Mangalore,4.5,Indian
+735,Butter Chicken Bungalow House,FALSE,12.866465,74.841404,Mangalore,4,Chinese
+736,The Mango Lassi Bar House,TRUE,8.491127,76.9083,Trivandrum,4.7,Chinese
+737,Naan Stop Bistro,FALSE,22.55004,88.348021,Kolkata,4.3,Chinese
+738,The Mysore Pak Mansion Cafe,FALSE,8.495137,76.985174,Trivandrum,4.4,Japanese
+739,The Banyan Tree Cafe Kitchen,FALSE,9.958289,76.293642,Kochi,4.1,Chinese
+740,Spiced Roots Kitchen Kitchen,FALSE,25.332086,82.933475,Varanasi,2.9,Japanese
+741,The Nutmeg Nook Bistro,FALSE,21.187102,72.785773,Surat,3.5,Japanese
+742,The Mango Tree Cafe,FALSE,19.041391,72.920206,Mumbai,3.5,Indian
+743,The Gulab Jamun Gallery Kitchen,FALSE,21.146339,72.837508,Surat,3.1,Indian
+744,Royal India Grill,FALSE,13.386107,74.719836,Udupi,3.9,Indian
+745,Chai & Chaat Cafe,TRUE,13.096957,80.245025,Chennai,2.9,Indian
+746,Rajasthan Royals House,FALSE,22.572741,88.344377,Kolkata,4.9,Japanese
+747,Samosa King Grill,FALSE,21.174063,72.840411,Surat,2.8,Chinese
+748,The Mint Mansion Bistro,FALSE,21.210364,72.849187,Surat,2.6,Japanese
+749,Spice Route Bistro Bistro,FALSE,21.139,72.863913,Surat,4.5,Japanese
+750,Taste of Punjab Cafe,FALSE,18.521915,73.853118,Pune,4.3,Indian
+751,Tandoor Terrace Bistro,TRUE,9.954874,76.237595,Kochi,2.5,Chinese
+752,The Curry Leaf House,FALSE,19.112082,72.855229,Mumbai,2.7,Chinese
+753,The Raita Retreat House,FALSE,11.229325,75.767981,Kozhikode,3,Chinese
+754,Chutney & Chai Bistro,FALSE,17.409483,78.4777,Hyderabad,3,Chinese
+755,The Paratha Place Grill,TRUE,22.590672,88.368722,Kolkata,2.7,Chinese
+756,Biryani House Grill,FALSE,31.635767,74.831048,Amritsar,2.7,Japanese
+757,Aroma of Biryani Grill,FALSE,21.151886,72.868376,Surat,4.8,Indian
+758,Samosa Station House,FALSE,11.231338,75.830031,Kozhikode,2.6,Indian
+759,Delhi Delights Bistro,FALSE,19.055729,72.896329,Mumbai,3.8,Japanese
+760,The Fenugreek Feast Bistro,TRUE,9.908924,76.248528,Kochi,3.4,Chinese
+761,Spiced Roots Kitchen Grill,TRUE,8.478739,76.888293,Trivandrum,4.5,Indian
+762,The Kheer Kitchen Bistro,FALSE,11.229054,75.807909,Kozhikode,4.1,Indian
+763,The Gulab Jamun Gallery Grill,TRUE,21.183847,72.831674,Surat,2.6,Indian
+764,The Star Anise Supper Club Grill,FALSE,19.112516,72.828024,Mumbai,3.1,Indian
+765,Ginger & Garlic Grill,TRUE,8.555984,76.968868,Trivandrum,3.3,Chinese
+766,The Cinnamon Circle Kitchen,TRUE,12.874887,74.846351,Mangalore,4.6,Japanese
+767,The Peacock Pavilion Grill,FALSE,19.055208,72.905579,Mumbai,2.9,Japanese
+768,Goa Spice Cafe,FALSE,11.287426,75.748389,Kozhikode,2.9,Chinese
+769,Curry Kingdom Bistro,TRUE,8.506276,76.894525,Trivandrum,4.1,Japanese
+770,The Royal Thali Bistro,TRUE,22.541533,88.388703,Kolkata,3.3,Chinese
+771,The Garlic Grill Grill,TRUE,31.660984,74.838811,Amritsar,4.7,Indian
+772,The Sandalwood Terrace House,FALSE,13.089676,80.256916,Chennai,3.1,Japanese
+773,The Deccan Plateau Grill Cafe,TRUE,12.916392,74.864475,Mangalore,3.6,Chinese
+774,The Bengal Tiger Bistro Kitchen,FALSE,19.051901,72.886305,Mumbai,3.7,Indian
+775,Chutney & Chai Bistro,FALSE,17.371099,78.5331,Hyderabad,4.6,Japanese
+776,The Gulab Jamun Gallery Bistro,FALSE,17.415333,78.510639,Hyderabad,4.7,Chinese
+777,The Mango Lassi Bar Kitchen,FALSE,31.595397,74.875463,Amritsar,3.4,Indian
+778,Chai & Chaat Kitchen,FALSE,9.914368,76.303031,Kochi,3,Chinese
+779,Tadka Town Bistro,TRUE,13.309603,74.735901,Udupi,4.7,Chinese
+780,The Mango Lassi Bar Cafe,FALSE,12.328313,76.643803,Mysore,3.4,Chinese
+781,Naan Stop Bistro,FALSE,19.090772,72.832131,Mumbai,3.2,Japanese
+782,The Gulab Jamun Gallery Kitchen,FALSE,13.305846,74.75913,Udupi,4.3,Indian
+783,Aromas of India Cafe,FALSE,21.151018,72.832974,Surat,4.8,Japanese
+784,The Naan Nest Bistro,FALSE,25.275864,82.989407,Varanasi,4.5,Chinese
+785,Aroma of Biryani Bistro,TRUE,12.964404,77.617993,Bangalore,3.6,Chinese
+786,The Malabar Coast Cafe House,FALSE,13.309392,74.702047,Udupi,4.5,Indian
+787,The Coconut Grove House,TRUE,11.24601,75.79235,Kozhikode,3.1,Japanese
+788,Masala Bay House,FALSE,9.902053,76.222053,Kochi,3,Japanese
+789,The Masala Mill Cafe,TRUE,12.901823,74.89043,Mangalore,4.1,Chinese
+790,The Mango Tree House,TRUE,13.112998,80.226502,Chennai,4.8,Indian
+791,The Ashoka Restaurant Cafe,FALSE,9.972366,76.292072,Kochi,3.1,Indian
+792,The Banyan Tree Cafe Grill,FALSE,18.476237,73.847171,Pune,3,Chinese
+793,The Masala Mill Kitchen,FALSE,31.61864,74.851444,Amritsar,2.7,Japanese
+794,Lucknow Lounge Kitchen,FALSE,13.367982,74.75501,Udupi,4.2,Indian
+795,The Curry Pot Grill,FALSE,18.499031,73.897454,Pune,3.5,Indian
+796,Ganges Grill Kitchen,TRUE,18.526327,73.835751,Pune,3.7,Chinese
+797,Mumbai Street Food Bistro,TRUE,22.598175,88.368598,Kolkata,2.7,Japanese
+798,The Royal Thali Bistro,TRUE,9.914826,76.253461,Kochi,4.9,Japanese
+799,Tadka Town Cafe,FALSE,22.620959,88.411831,Kolkata,3.4,Indian
+800,The Himalayan Foothills Diner Bistro,TRUE,25.278602,82.93555,Varanasi,3.9,Chinese
+801,Darjeeling Diner Kitchen,FALSE,13.291169,74.782819,Udupi,3,Indian
+802,The Sesame Street Kitchen Kitchen,FALSE,17.391724,78.525979,Hyderabad,4.6,Japanese
+803,The Deccan Plateau Grill Grill,FALSE,11.276642,75.77305,Kozhikode,4.9,Japanese
+804,The Ginger Garden Cafe,FALSE,9.947423,76.253575,Kochi,4.4,Chinese
+805,The Coconut Grove Bistro,FALSE,22.576138,88.393761,Kolkata,3,Chinese
+806,Currylicious Grill,FALSE,12.989455,77.613784,Bangalore,2.6,Japanese
+807,Royal India Grill,FALSE,8.479364,76.929788,Trivandrum,3.2,Chinese
+808,Spiced Roots Kitchen House,TRUE,9.965312,76.254261,Kochi,4.8,Indian
+809,Aromas of India Cafe,FALSE,17.41183,78.50044,Hyderabad,3.2,Chinese
+810,The Tandoor Oven Cafe,FALSE,12.864381,74.820422,Mangalore,3.4,Japanese
+811,Vada Villa Cafe,FALSE,19.115155,72.907137,Mumbai,3.2,Chinese
+812,The Kulfi Corner Bistro,TRUE,19.045106,72.898157,Mumbai,3.2,Chinese
+813,The Roti Room Cafe,FALSE,12.947108,77.583487,Bangalore,3,Chinese
+814,Biryani House House,FALSE,11.24954,75.810026,Kozhikode,3.7,Japanese
+815,The Cinnamon Circle Cafe,FALSE,12.263356,76.589739,Mysore,4.2,Chinese
+816,The Malabar Coast Cafe Grill,FALSE,12.946202,77.573385,Bangalore,3.4,Indian
+817,Curry & Naan Kitchen,FALSE,13.322042,74.723168,Udupi,4.6,Japanese
+818,The Badam Burfi Bistro Kitchen,FALSE,12.933558,74.806584,Mangalore,3.2,Japanese
+819,The Cardamom Pod Grill,TRUE,21.155808,72.834817,Surat,3.8,Japanese
+820,Curry Kingdom Cafe,FALSE,22.543416,88.382073,Kolkata,3,Indian
+821,Tikka Trails Bistro,FALSE,31.664386,74.866097,Amritsar,4.6,Indian
+822,The Barfi Bazaar Bistro,TRUE,22.540397,88.408515,Kolkata,4.9,Indian
+823,Himalayan Harvest Cafe,FALSE,12.871545,74.866274,Mangalore,3.1,Chinese
+824,The Ladoo Lodge Bistro,TRUE,13.321517,74.69388,Udupi,4.9,Indian
+825,The Bengal Tiger Bistro Grill,FALSE,12.283865,76.638044,Mysore,3.8,Japanese
+826,Mumbai Street Food Bistro,FALSE,12.960703,74.863732,Mangalore,3.7,Indian
+827,Indus Flavors House,TRUE,31.656813,74.827867,Amritsar,4.4,Indian
+828,Hyderabad House House,FALSE,12.887262,74.817965,Mangalore,3.7,Japanese
+829,The Clove Corner Bistro,FALSE,19.074088,72.873919,Mumbai,2.6,Chinese
+830,The Gulab Jamun Gallery House,FALSE,25.313931,82.997045,Varanasi,4.4,Japanese
+831,Chai & Chaat Grill,FALSE,17.427639,78.495653,Hyderabad,4,Chinese
+832,The Gulab Jamun Gallery Kitchen,TRUE,31.604294,74.876646,Amritsar,4,Chinese
+833,Mumbai Street Food House,FALSE,12.873254,74.894776,Mangalore,4,Chinese
+834,Mumbai Street Food House,FALSE,12.937297,77.620709,Bangalore,3.5,Chinese
+835,The Paratha Place Bistro,FALSE,31.613626,74.856804,Amritsar,3.9,Chinese
+836,The Gulab Jamun Gallery House,TRUE,12.988693,77.573384,Bangalore,4.1,Chinese
+837,The Turmeric Trail Kitchen,FALSE,31.640589,74.833762,Amritsar,2.8,Indian
+838,The Chutney Jar Grill,FALSE,17.418231,78.503619,Hyderabad,3.5,Japanese
+839,Ginger & Garlic Grill,FALSE,9.955095,76.239344,Kochi,3.2,Japanese
+840,The Mango Lassi Bar House,FALSE,31.629926,74.859553,Amritsar,3.2,Indian
+841,The Kheer Kitchen House,FALSE,12.316606,76.595536,Mysore,4,Indian
+842,Bombay Bites Kitchen,FALSE,18.503559,73.898558,Pune,4.7,Indian
+843,The Sesame Street Kitchen Grill,FALSE,13.322057,74.750143,Udupi,3.4,Indian
+844,The Malabar Coast Cafe House,FALSE,18.512531,73.845428,Pune,3.6,Japanese
+845,Spice Route Bistro Bistro,FALSE,25.346367,82.97662,Varanasi,2.8,Indian
+846,The Pickle Palace Bistro,FALSE,19.044889,72.867717,Mumbai,3.4,Japanese
+847,Tandoori Nights Cafe,FALSE,9.97549,76.25085,Kochi,4.8,Japanese
+848,Tikka Trails Kitchen,FALSE,21.123137,72.79725,Surat,3.7,Chinese
+849,Kerala Kitchen Grill,FALSE,18.516332,73.866387,Pune,2.7,Japanese
+850,The Mysore Pak Mansion Cafe,FALSE,12.247227,76.655205,Mysore,5,Japanese
+851,Spice Route Bistro Bistro,FALSE,9.895167,76.297608,Kochi,4.1,Chinese
+852,Dosa Destination Kitchen,TRUE,12.996602,77.570376,Bangalore,3.3,Japanese
+853,The Tandoor Oven Cafe,TRUE,11.30169,75.779467,Kozhikode,2.7,Japanese
+854,The Cumin Club Grill,FALSE,9.915007,76.227154,Kochi,4.4,Japanese
+855,The Curry Pot Bistro,TRUE,12.955305,77.618658,Bangalore,3.2,Indian
+856,Punjab Grill Cafe,FALSE,19.12563,72.852292,Mumbai,4.9,Japanese
+857,The Pulao Pot Grill,TRUE,18.516958,73.90632,Pune,4.1,Indian
+858,Samosa King House,FALSE,18.551212,73.898387,Pune,4.5,Indian
+859,The Fenugreek Feast Bistro,TRUE,12.916858,74.811202,Mangalore,3.1,Indian
+860,Masala Mantra Cafe,TRUE,12.269682,76.669535,Mysore,2.6,Chinese
+861,Idli Inn Grill,FALSE,9.884741,76.310067,Kochi,4.7,Chinese
+862,Taste of Punjab Kitchen,FALSE,12.871497,74.864055,Mangalore,4.4,Indian
+863,Ginger & Garlic Cafe,FALSE,25.282396,83.001206,Varanasi,3,Chinese
+864,The Peacock Pavilion Bistro,FALSE,8.476896,76.935116,Trivandrum,3.3,Indian
+865,The Malabar Coast Cafe House,FALSE,21.21147,72.878672,Surat,4.3,Japanese
+866,The Peacock Pavilion Cafe,FALSE,21.181971,72.811388,Surat,4.9,Chinese
+867,Aromas of India Kitchen,FALSE,9.92478,76.305779,Kochi,3.6,Chinese
+868,The Chutney Jar Bistro,FALSE,9.958645,76.303077,Kochi,3.1,Japanese
+869,Mumbai Street Food House,FALSE,25.362199,82.963015,Varanasi,3.7,Japanese
+870,The Jalebi Junction Cafe,FALSE,18.496842,73.852745,Pune,3.5,Japanese
+871,The Kaju Katli Cafe Bistro,FALSE,13.12299,80.258073,Chennai,2.5,Indian
+872,The Roti Room House,FALSE,12.985895,77.630397,Bangalore,3.3,Japanese
+873,The Curry Leaf Kitchen,TRUE,13.122836,80.27489,Chennai,4.1,Indian
+874,Bombay Bites Kitchen,FALSE,31.653671,74.857491,Amritsar,3.7,Japanese
+875,Agra Asado Cafe,TRUE,18.517497,73.850566,Pune,4.4,Indian
+876,The Roti Room Cafe,FALSE,25.295051,82.979301,Varanasi,4.7,Japanese
+877,The Badam Burfi Bistro Cafe,TRUE,12.907218,74.829585,Mangalore,4.1,Chinese
+878,Curry & Naan House,FALSE,31.606938,74.828962,Amritsar,4.9,Indian
+879,The Ashoka Restaurant Bistro,FALSE,11.22721,75.786417,Kozhikode,3.2,Chinese
+880,Ganges Grill House,FALSE,31.608525,74.913347,Amritsar,2.7,Japanese
+881,The Halwa House Cafe,TRUE,18.527634,73.875372,Pune,3.1,Chinese
+882,The Poppy Seed Plate Grill,FALSE,22.592867,88.384153,Kolkata,3.4,Indian
+883,Chutney Central Bistro,TRUE,8.550315,76.920974,Trivandrum,3.8,Indian
+884,The Jalebi Junction Grill,FALSE,12.906195,74.864798,Mangalore,4.1,Chinese
+885,The Curry Leaf Grill,FALSE,8.513547,76.967307,Trivandrum,4.4,Chinese
+886,The Roti Room Grill,FALSE,25.272751,82.958488,Varanasi,3.6,Indian
+887,The Banyan Tree Cafe Bistro,FALSE,12.303188,76.64974,Mysore,4.4,Indian
+888,The Coriander Cafe Cafe,TRUE,13.068541,80.241379,Chennai,2.6,Chinese
+889,The Fenugreek Feast Cafe,FALSE,25.276325,82.957433,Varanasi,3.1,Indian
+890,Vada Villa Cafe,TRUE,12.949614,77.587158,Bangalore,3.7,Indian
+891,The Ginger Garden Bistro,FALSE,31.584704,74.871464,Amritsar,2.6,Chinese
+892,The Clove Corner Cafe,TRUE,18.525286,73.861244,Pune,3.7,Chinese
+893,The Coconut Grove Cafe,TRUE,8.486399,76.919401,Trivandrum,3.7,Chinese
+894,The Chutney Jar Cafe,FALSE,12.96006,77.627794,Bangalore,4.6,Chinese
+895,Vada Villa Kitchen,FALSE,22.569276,88.35474,Kolkata,3.5,Indian
+896,Chutney & Chai Bistro,TRUE,25.362688,82.964137,Varanasi,4.2,Japanese
+897,Rajasthan Royals Grill,FALSE,12.961537,77.597697,Bangalore,4.4,Japanese
+898,Desi Tadka House,FALSE,12.911523,74.826601,Mangalore,4.2,Japanese
+899,The Kaju Katli Cafe Bistro,FALSE,22.598023,88.341778,Kolkata,4.8,Indian
+900,Darjeeling Diner Kitchen,FALSE,17.385427,78.449283,Hyderabad,2.8,Japanese
+901,The Pulao Pot Kitchen,FALSE,21.169872,72.801839,Surat,4.3,Indian
+902,The Clove Corner Bistro,TRUE,17.432562,78.476594,Hyderabad,3.6,Chinese
+903,The Ladoo Lodge Grill,FALSE,21.13127,72.807735,Surat,3.6,Indian
+904,The Ashoka Restaurant Kitchen,FALSE,9.931608,76.283496,Kochi,4.2,Chinese
+905,The Rasgulla Restaurant Cafe,FALSE,12.267588,76.639034,Mysore,5,Japanese
+906,The Halwa House Grill,FALSE,12.897443,74.856332,Mangalore,3.5,Chinese
+907,The Royal Thali Kitchen,TRUE,12.902412,74.808666,Mangalore,3.4,Indian
+908,Masala Mantra Kitchen,TRUE,17.350039,78.479755,Hyderabad,4.9,Chinese
+909,The Sandalwood Terrace Kitchen,TRUE,13.098395,80.292546,Chennai,4.4,Japanese
+910,The Biryani Bowl Grill,FALSE,11.243769,75.75106,Kozhikode,4.8,Chinese
+911,Indian Delights Bistro,FALSE,18.502261,73.88258,Pune,4.4,Chinese
+912,Dosa Destination Kitchen,FALSE,17.410085,78.456583,Hyderabad,4.5,Chinese
+913,The Himalayan Foothills Diner Bistro,FALSE,25.310542,83.020133,Varanasi,3,Japanese
+914,Flavor of India Cafe,FALSE,11.251,75.785583,Kozhikode,3.6,Indian
+915,The Himalayan Foothills Diner Kitchen,FALSE,11.251547,75.796438,Kozhikode,3.3,Japanese
+916,Agra Asado Bistro,FALSE,13.002016,77.593551,Bangalore,4.2,Chinese
+917,Chutney Central Bistro,FALSE,19.123646,72.900709,Mumbai,3,Chinese
+918,Samosa King Kitchen,TRUE,13.06119,80.242652,Chennai,3.6,Japanese
+919,The Papadum Paradise Bistro,FALSE,18.486728,73.839041,Pune,3.3,Chinese
+920,The Grand Trunk Road Kitchen Kitchen,FALSE,11.251761,75.792707,Kozhikode,3.9,Chinese
+921,Mysore Masala Grill,FALSE,8.50953,76.939778,Trivandrum,4.3,Indian
+922,The Paratha Place Bistro,FALSE,9.952402,76.256082,Kochi,2.7,Indian
+923,Ganges Grill Cafe,TRUE,13.010793,77.545305,Bangalore,4,Chinese
+924,The Gulab Jamun Gallery Cafe,FALSE,19.062672,72.920835,Mumbai,3.4,Japanese
+925,The Rasgulla Restaurant Bistro,FALSE,25.34636,83.015816,Varanasi,3.2,Indian
+926,The Kaju Katli Cafe Bistro,TRUE,25.274989,82.948884,Varanasi,2.8,Chinese
+927,Himalayan Harvest Cafe,FALSE,13.108938,80.265505,Chennai,3.5,Indian
+928,The Lotus Leaf Lounge Cafe,FALSE,9.90845,76.254586,Kochi,2.8,Japanese
+929,The Sandalwood Terrace House,FALSE,19.034073,72.888539,Mumbai,4.4,Japanese
+930,The Mustard Seed House,FALSE,22.546775,88.384839,Kolkata,2.7,Japanese
+931,Biryani Bliss Bistro,FALSE,13.041253,80.306639,Chennai,2.9,Chinese
+932,The Pickle Palace Cafe,FALSE,13.386195,74.744966,Udupi,2.7,Japanese
+933,Curry Kingdom Cafe,FALSE,8.501295,76.977225,Trivandrum,3.4,Japanese
+934,The Chili Chat Kitchen,FALSE,12.892735,74.84143,Mangalore,2.6,Japanese
+935,The Nutmeg Nook Bistro,FALSE,25.362262,82.978203,Varanasi,3.6,Japanese
+936,Spiced Roots Kitchen Cafe,TRUE,19.080762,72.908847,Mumbai,2.6,Chinese
+937,The Mustard Seed House,FALSE,25.286595,82.998022,Varanasi,4.9,Indian
+938,The Mysore Pak Mansion Grill,FALSE,25.348005,82.951577,Varanasi,4.6,Japanese
+939,Desi Bites Grill,TRUE,19.067702,72.921865,Mumbai,4.2,Chinese
+940,Masala Bay Grill,TRUE,22.561598,88.348674,Kolkata,3.5,Indian
+941,The Turmeric Trail House,FALSE,25.323283,82.945908,Varanasi,4.5,Japanese
+942,The Saffron Spot House,FALSE,19.080193,72.847887,Mumbai,3.9,Japanese
+943,The Bengal Tiger Bistro Bistro,FALSE,12.944611,74.821897,Mangalore,4.8,Chinese
+944,Mysore Masala Kitchen,TRUE,31.585692,74.893257,Amritsar,4,Japanese
+945,The Kulfi Corner Bistro,TRUE,21.181129,72.786721,Surat,2.8,Japanese
+946,The Mustard Seed House,FALSE,13.040243,80.234657,Chennai,3.4,Japanese
+947,The Poppy Seed Plate Bistro,FALSE,13.129143,80.244967,Chennai,4.7,Indian
+948,Tandoor Terrace Cafe,TRUE,17.41471,78.439709,Hyderabad,3.6,Chinese
+949,The Star Anise Supper Club Grill,TRUE,9.930955,76.292643,Kochi,4.5,Japanese
+950,The Saffron Plate Cafe,FALSE,25.341288,82.930633,Varanasi,4.2,Japanese
+951,The Cardamom Pod Kitchen,FALSE,13.372894,74.781827,Udupi,4.9,Chinese
+952,The Sesame Street Kitchen Grill,FALSE,12.316533,76.671801,Mysore,4,Indian
+953,The Mango Lassi Bar Kitchen,TRUE,9.972323,76.282597,Kochi,3,Japanese
+954,The Royal Thali Cafe,FALSE,25.306689,82.971706,Varanasi,4.9,Japanese
+955,Currylicious Kitchen,FALSE,12.917146,74.867505,Mangalore,3.1,Chinese
+956,Royal India Bistro,FALSE,22.613754,88.408863,Kolkata,4.5,Japanese
+957,Himalayan Harvest Kitchen,TRUE,22.596995,88.334748,Kolkata,4.3,Chinese
+958,The Garlic Grill Cafe,FALSE,13.102582,80.277989,Chennai,3.1,Indian
+959,Biryani Bliss Bistro,TRUE,19.078438,72.839601,Mumbai,3,Japanese
+960,The Cardamom Pod Grill,FALSE,12.332407,76.65471,Mysore,4.7,Chinese
+961,The Ashoka Restaurant Cafe,TRUE,12.323859,76.625632,Mysore,4.5,Chinese
+962,Taste of Home House,FALSE,19.119854,72.848312,Mumbai,3.7,Japanese
+963,The Kaju Katli Cafe Cafe,FALSE,17.335013,78.51075,Hyderabad,4.1,Japanese
+964,The Kheer Kitchen Bistro,TRUE,12.266572,76.647282,Mysore,3.4,Japanese
+965,Indian Delights Cafe,FALSE,12.969672,77.577328,Bangalore,5,Japanese
+966,The Mango Lassi Bar House,FALSE,25.293984,82.975698,Varanasi,4.1,Indian
+967,Currylicious Kitchen,FALSE,25.350326,82.975203,Varanasi,2.6,Japanese
+968,Kerala Kitchen Kitchen,TRUE,18.552718,73.905426,Pune,4.2,Japanese
+969,The Curry Pot Cafe,FALSE,17.337191,78.477553,Hyderabad,4.2,Indian
+970,The Ginger Garden Cafe,FALSE,21.18266,72.829775,Surat,3.7,Indian
+971,Desi Bites House,FALSE,13.007413,77.577412,Bangalore,3.6,Japanese
+972,The Coconut Barfi Boutique Kitchen,FALSE,17.380492,78.442001,Hyderabad,2.7,Chinese
+973,Chai & Chaat Kitchen,TRUE,18.475387,73.87689,Pune,4.9,Indian
+974,Chai & Chaat Bistro,TRUE,13.103872,80.307906,Chennai,4.2,Indian
+975,The Saffron Plate House,TRUE,8.477504,76.908544,Trivandrum,2.5,Japanese
+976,Chutney & Chai Cafe,FALSE,13.124795,80.236497,Chennai,3.3,Chinese
+977,The Kheer Kitchen Bistro,FALSE,8.509796,76.902827,Trivandrum,2.9,Japanese
+978,Tandoor Terrace Cafe,TRUE,31.618674,74.914782,Amritsar,4.4,Japanese
+979,Naan Stop House,FALSE,31.668335,74.882646,Amritsar,3.2,Chinese
+980,The Barfi Bazaar Bistro,TRUE,18.563338,73.898116,Pune,3.7,Indian
+981,Indian Delights Bistro,FALSE,21.144197,72.826825,Surat,3.2,Indian
+982,Tikka Trails Kitchen,FALSE,19.034919,72.850131,Mumbai,2.9,Chinese
+983,Chutney Central Cafe,TRUE,9.914068,76.247719,Kochi,3.2,Japanese
+984,The Chutney Jar House,TRUE,9.959389,76.230939,Kochi,4,Chinese
+985,Biryani Bliss Kitchen,TRUE,12.9293,77.584152,Bangalore,2.9,Indian
+986,The Jalebi Junction Kitchen,FALSE,13.011436,77.547476,Bangalore,3.2,Chinese
+987,The Sesame Street Kitchen Bistro,TRUE,21.121672,72.820666,Surat,4.9,Indian
+988,Uttapam Union Grill,TRUE,12.877519,74.857959,Mangalore,3.3,Chinese
+989,The Ginger Garden Bistro,FALSE,22.530472,88.335379,Kolkata,3.6,Japanese
+990,Mysore Masala Bistro,FALSE,31.642394,74.832895,Amritsar,3.6,Japanese
+991,The Naan Nest Bistro,FALSE,8.536486,76.967189,Trivandrum,2.8,Japanese
+992,Chennai Chef Kitchen,FALSE,9.913977,76.240179,Kochi,3.6,Chinese
+993,Lucknow Lounge House,FALSE,13.130618,80.235933,Chennai,3.6,Japanese
+994,The Nutmeg Nook Grill,TRUE,8.533242,76.929379,Trivandrum,4.7,Indian
+995,Spiced Roots Kitchen House,TRUE,13.076591,80.260146,Chennai,4.9,Chinese
+996,Indian Zaika House,FALSE,12.273501,76.682817,Mysore,4.6,Japanese
+997,Mumbai Street Food Cafe,FALSE,9.962362,76.230576,Kochi,4,Indian
+998,Spiced Roots Kitchen Kitchen,TRUE,18.493826,73.888957,Pune,4.4,Chinese
+999,Agra Asado Grill,FALSE,13.089418,80.265259,Chennai,3.5,Japanese
+1000,Aromas of India House,TRUE,22.525703,88.330599,Kolkata,3.3,Indian
